@@ -19,7 +19,7 @@ Webpage:              [jonathke.github.io](https://jonathke.github.io)
 Substitute Lecturer:  Caroline Sandsbråten\
 Contact:              [caroline.sandsbraten@ntnu.no](mailto:caroline.sandsbraten@ntnu.no)\
 Office:               [Electro B211](https://link.mazemap.com/DBIM3jA0)\
-Webpage:              [github.com/carrosa](https://github.com/carrosa)
+Webpage:              [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu.edu/employees/caroline.sandsbraten)
 
 ## Lecture Plan (the schedule will be subject to small changes)
 
