@@ -1,4 +1,4 @@
-**This will be the official course website for TTM4205 Secure Cryptographic Implementations.**
+**This will be the official course website for TTM4205 Secure Cryptographic Implementations fall 2023.**
 
 ## Course Description
 
