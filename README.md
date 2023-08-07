@@ -5,7 +5,7 @@
 
 See course description at [ntnu.edu/studies/courses/TTM4205](https://www.ntnu.edu/studies/courses/TTM4205).
 
-## Administrative
+## Course Staff
 
 Lecturer:             Tjerand Silde\
 Contact:              [tjerand.silde@ntnu.no](mailto:tjerand.silde@ntnu.no)\
@@ -21,12 +21,6 @@ Substitute Lecturer:  Caroline Sandsbråten\
 Contact:              [caroline.sandsbraten@ntnu.no](mailto:caroline.sandsbraten@ntnu.no)\
 Office:               [Electro B211](https://link.mazemap.com/DBIM3jA0)\
 Webpage:              [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu.edu/employees/caroline.sandsbraten)
-
-## Piazza Forum
-
-We will use Piazza as forum in this course. Go to 
-[piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205). 
-The sign-up code is: **3dnp6nmmz59**.
 
 ## Piazza Forum
 
