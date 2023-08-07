@@ -1,6 +1,8 @@
 
 **This will be the official course website for TTM4205 Secure Cryptographic Implementations fall 2023.**
 
+<base target="_blank">
+
 ## Course Description
 
 See course description at [ntnu.edu/studies/courses/TTM4205](https://www.ntnu.edu/studies/courses/TTM4205).
