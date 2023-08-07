@@ -1,3 +1,4 @@
+
 **This will be the official course website for TTM4205 Secure Cryptographic Implementations fall 2023.**
 
 ## Course Description
@@ -27,51 +28,63 @@ We will use Piazza as forum in this course. Go to
 [piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205). 
 The sign-up code is: **3dnp6nmmz59**.
 
+## Piazza Forum
+
+We will use Piazza as forum in this course. Go to 
+[piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205). 
+The sign-up code is: **3dnp6nmmz59**.
+
 ## Lecture Plan
+
+We have the following slots this semester:
+
+* Tuesdays at 12:15-14:00 in [R92](https://link.mazemap.com/d6jlRO3B): Lectures
+* Tuesdays at 14:15-16:00 in [R92](https://link.mazemap.com/d6jlRO3B): Lab Session/Exercises
+* Thursdays at 10:15-12:00 in [B3](https://link.mazemap.com/lAdJJfsN): Lecture *OR* Lab/Exercises
 
 (the schedule will be subject to small changes)
 
-| Week | Date  | Format  | Responsible | Topic                           | Resources     |
-|------|-------|---------|-------------|---------------------------------|---------------|
-| 34   | 22/8  | Lecture | Tjerand     | Course Introduction             |               |
-| 34   | 22/8  | Lab/Ex  | Tjerand     | Overview & Assigments & Setup   |               |
-| 34   | 24/8  | Lecture | Tjerand     | Randomness 1                    |               |
-| 35   | 29/8  | Lecture | Caroline    | Randomness 2                    |               |
-| 35   | 29/8  | Lab/Ex  | Caroline    | Randomness Exercises            |               |
-| 35   | 31/8  | Lecture | Tjerand     | Randomness 3                    |               |
-| 36   | 5/9   | Lecture | Tjerand     | Legacy Crypto 1                 |               |
-| 36   | 5/9   | Lab/Ex  | Tjerand     | Legacy Crypto Exercises         |               |
-| 36   | 7/9   | Lecture | Tjerand     | Legacy Crypto 2                 |               |
-| 37   | 12/9  | Lecture | Tjerand     | Side-Channel Attacks 1          |               |
-| 37   | 12/9  | Lab/Ex  | Jonathan    | SCA Lab 1                       |               |
-| 37   | 14/9  | Lab/Ex  | Jonathan    | SCA Lab 2                       |               |
-| 38   | 19/9  | Lecture | Tjerand     | Side-Channel Attacks 2          |               |
-| 38   | 19/9  | Lab/Ex  | Jonathan    | SCA Lab 3                       |               |
-| 38   | 21/9  | Lab/Ex  | Jonathan    | SCA Lab 4                       |               |
-| 39   | 26/9  | Lecture | Tjerand     | Side-Channel Attacks 3          |               |
-| 39   | 26/9  | Lab/Ex  | Jonathan    | SCA Lab 5                       |               |
-| 39   | 28/9  | Lab/Ex  | Jonathan    | SCA Lab 6                       |               |
-| 40   | 3/10  | Lecture | Tjerand     | Side-Channel Attacks 4          |               |
-| 40   | 3/10  | Lab/Ex  | Jonathan    | SCA Lab 7                       |               |
-| 40   | 5/10  | Lab/Ex  | Jonathan    | SCA Lab 8                       |               |
-| 41   | 10/10 | Lecture | Tjerand     | Protocol APIs 1                 |               |
-| 41   | 10/10 | Lab/Ex  | Jonathan    | Protocol API Exercises          |               |
-| 41   | 12/10 | Lecture | Tjerand     | Protocols APIs 2                |               |
-| 42   | 17/10 | Lecture | Tjerand     | Padding Oracles                 |               |
-| 42   | 17/10 | Lab/Ex  | Jonathan    | Padding Exercises 1             |               |
-| 42   | 19/10 | Lab/Ex  | Jonathan    | Padding Exercises 2             |               |
-| 43   | 24/10 | Lecture | Tjerand     | Commitments and Zero-Knowledge  |               |
-| 43   | 24/10 | Lab/Ex  | Jonathan    | Com + ZK Exercises              |               |
-| 43   | 26/10 | Lecture | Jonathan    | Protocol Composition 1          |               |
-| 44   | 31/10 | Lecture | Tjerand     | Protocol Composition 2          |               |
-| 44   | 31/10 | Lab/Ex  | Jonathan    | Composition Exercises 1         |               |
-| 44   | 2/11  | Lab/Ex  | Jonathan    | Composition Exercises 2         |               |
-| 45   | 7/11  | Lecture | Tjerand     | Protocol Composition 3          |               |
-| 45   | 7/11  | Lab/Ex  | Jonathan    | Composition Exercises 3         |               |
-| 45   | 9/11  | Lecture | Tjerand     | Course Summary                  |               |
-| 46   | 14/11 | Lecture | Tjerand     | Special Topics Lecture 1 TBA    |               |
-| 46   | 14/11 | Lab/Ex  | Jonathan    | Assignments                     |               |
-| 46   | 16/11 | Lecture | Tjerand     | Special Topics Lecture 2 TBA    |               |
-| 47   | 21/11 | Lecture | Jonathan    | Special Topics Lecture 3 TBA    |               |
-| 47   | 21/11 | Lab/Ex  | Jonathan    | Assigments                      |               |
-| 47   | 23/11 | Lecture | Tjerand     | **Project Presentations**       |               |
+| Week | Date  | Format                            | Responsible | Topic                           | Resources     |
+|------|-------|-----------------------------------|-------------|---------------------------------|---------------|
+| 34   | 22/8  | <font color='blue'>Lecture</font> | Tjerand     | Course Introduction             |               |
+| 34   | 22/8  | <font color='red'>Lab/Ex</font>   | Tjerand     | Overview & Assignments & Setup  |               |
+| 34   | 24/8  | <font color='blue'>Lecture</font> | Tjerand     | Randomness 1                    |               |
+| 35   | 29/8  | <font color='blue'>Lecture</font> | Caroline    | Randomness 2                    |               |
+| 35   | 29/8  | <font color='red'>Lab/Ex</font>   | Caroline    | Randomness Exercises            |               |
+| 35   | 31/8  | <font color='blue'>Lecture</font> | Tjerand     | Randomness 3                    |               |
+| 36   | 5/9   | <font color='blue'>Lecture</font> | Tjerand     | Legacy Crypto 1                 |               |
+| 36   | 5/9   | <font color='red'>Lab/Ex</font>   | Tjerand     | Legacy Crypto Exercises         |               |
+| 36   | 7/9   | <font color='blue'>Lecture</font> | Tjerand     | Legacy Crypto 2                 |               |
+| 37   | 12/9  | <font color='blue'>Lecture</font> | Tjerand     | Side-Channel Attacks 1          |               |
+| 37   | 12/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 1                       |               |
+| 37   | 14/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 2                       |               |
+| 38   | 19/9  | <font color='blue'>Lecture</font> | Tjerand     | Side-Channel Attacks 2          |               |
+| 38   | 19/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 3                       |               |
+| 38   | 21/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 4                       |               |
+| 39   | 26/9  | <font color='blue'>Lecture</font> | Tjerand     | Side-Channel Attacks 3          |               |
+| 39   | 26/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 5                       |               |
+| 39   | 28/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 6                       |               |
+| 40   | 3/10  | <font color='blue'>Lecture</font> | Tjerand     | Side-Channel Attacks 4          |               |
+| 40   | 3/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 7                       |               |
+| 40   | 5/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 8                       |               |
+| 41   | 10/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocol APIs 1                 |               |
+| 41   | 10/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Protocol API Exercises          |               |
+| 41   | 12/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocols APIs 2                |               |
+| 42   | 17/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles                 |               |
+| 42   | 17/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Padding Exercises 1             |               |
+| 42   | 19/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Padding Exercises 2             |               |
+| 43   | 24/10 | <font color='blue'>Lecture</font> | Tjerand     | Commitments and Zero-Knowledge  |               |
+| 43   | 24/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Com + ZK Exercises              |               |
+| 43   | 26/10 | <font color='blue'>Lecture</font> | Jonathan    | Protocol Composition 1          |               |
+| 44   | 31/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 2          |               |
+| 44   | 31/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Composition Exercises 1         |               |
+| 44   | 2/11  | <font color='red'>Lab/Ex</font>   | Jonathan    | Composition Exercises 2         |               |
+| 45   | 7/11  | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 3          |               |
+| 45   | 7/11  | <font color='red'>Lab/Ex</font>   | Jonathan    | Composition Exercises 3         |               |
+| 45   | 9/11  | <font color='blue'>Lecture</font> | Tjerand     | Course Summary                  |               |
+| 46   | 14/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 1 TBA    |               |
+| 46   | 14/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |               |
+| 46   | 16/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 2 TBA    |               |
+| 47   | 21/11 | <font color='blue'>Lecture</font> | Jonathan    | Special Topics Lecture 3 TBA    |               |
+| 47   | 21/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assigments                      |               |
+| 47   | 23/11 | <font color='blue'>Lecture</font> | Tjerand     | ***Project Presentations***     |               |
