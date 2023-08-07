@@ -74,6 +74,12 @@ This assignment is to write a paper about one of the following:
   - Topics not covered by the lectures
   - In-depth topics from the lectures
 
+*High-level summary:*
+
+  - Groups of 1-3 members
+  - Papers of 10-20 pages
+  - Written in LaTeX
+
 *Deadlines:*
 
   - Topic/scope/group approval:     **November 1st**
