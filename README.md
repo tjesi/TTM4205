@@ -26,8 +26,8 @@ Webpage:              [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu
 
 ## Piazza Forum
 
-We will use Piazza as forum in this course. Go to 
-[piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205). 
+We will use Piazza as forum in this course.  
+Go to [piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205).  
 The sign-up code is: **3dnp6nmmz59**.
 
 ## Lecture Plan
