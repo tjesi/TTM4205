@@ -5,26 +5,26 @@
 
 ## Course Description
 
-The course covers how to implement, analyse, attack, protect and securely compose cryptographic algorithms in practice. It goes in depth on how to implement computer arithmetic, attacking implementations using side-channel attacks and fault injection, exploit padding oracles and low-entropy randomness, utilise techniques to defend against these attacks, and how to securely design misuse-resistant APIs.
+*The course covers how to implement, analyse, attack, protect and securely compose cryptographic algorithms in practice. It goes in depth on how to implement computer arithmetic, attacking implementations using side-channel attacks and fault injection, exploit padding oracles and low-entropy randomness, utilise techniques to defend against these attacks, and how to securely design misuse-resistant APIs.*
 
 See the full course description at [ntnu.edu/studies/courses/TTM4205](https://www.ntnu.edu/studies/courses/TTM4205).
 
 ## Course Staff
 
-Lecturer:             Tjerand Silde  
-Contact:              [tjerand.silde@ntnu.no](mailto:tjerand.silde@ntnu.no)  
-Office:               [Electro B225](https://link.mazemap.com/F1ujWlEP)  
-Webpage:              [tjerandsilde.no](https://tjerandsilde.no)
+Lecturer: &ensp;                    Tjerand Silde  
+Contact:  &ensp;&nbsp;              [tjerand.silde@ntnu.no](mailto:tjerand.silde@ntnu.no)  
+Office:   &ensp;&ensp;&ensp;&nbsp;  [Electro B225](https://link.mazemap.com/F1ujWlEP)  
+Webpage:  &nbsp;                    [tjerandsilde.no](https://tjerandsilde.no)
 
-Lab Assistant:        Jonathan Komada Eriksen  
-Contact:              [jonathan.k.eriksen@ntnu.no](mailto:jonathan.k.eriksen@ntnu.no)  
-Office:               [Electro B216](https://link.mazemap.com/G4kcT7sc)  
-Webpage:              [jonathke.github.io](https://jonathke.github.io)
+Lab/Teaching Assistant:             Jonathan Komada Eriksen  
+Contact:  &ensp;&nbsp;              [jonathan.k.eriksen@ntnu.no](mailto:jonathan.k.eriksen@ntnu.no)  
+Office:   &ensp;&ensp;&ensp;&nbsp;  [Electro B216](https://link.mazemap.com/G4kcT7sc)  
+Webpage:  &nbsp;                    [jonathke.github.io](https://jonathke.github.io)
 
-Substitute Lecturer:  Caroline Sandsbråten  
-Contact:              [caroline.sandsbraten@ntnu.no](mailto:caroline.sandsbraten@ntnu.no)  
-Office:               [Electro B211](https://link.mazemap.com/DBIM3jA0)  
-Webpage:              [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu.edu/employees/caroline.sandsbraten)
+Substitute Lecturer:                Caroline Sandsbråten  
+Contact:  &ensp;&nbsp;              [caroline.sandsbraten@ntnu.no](mailto:caroline.sandsbraten@ntnu.no)  
+Office:   &ensp;&ensp;&ensp;&nbsp;  [Electro B211](https://link.mazemap.com/DBIM3jA0)  
+Webpage:  &nbsp;                    [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu.edu/employees/caroline.sandsbraten)
 
 ## Piazza Forum
 
