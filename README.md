@@ -30,6 +30,47 @@ We will use Piazza as forum in this course.
 Go to [piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205).  
 The sign-up code is: **3dnp6nmmz59**.
 
+## Portfolio Assignment
+
+The evaluation in this course will consist of two assignments of 100 points total.
+
+### Weekly problems (40 points)
+
+This assignment will contain the following kind of problems:
+
+  - Pen & paper problems
+  - Coding problems
+  - CryptoHack problems
+  - ChipWhisperer labs
+
+The submission deadline is <font color='red'>December 1st at 23:59</font>.
+
+The problems are available here: [PDF]() (last updated: 22/8)
+
+### Special Topic Project (60 points)
+
+This assignment is to write a paper about the following:
+
+  - Topics not covered by the lectures
+  - In-depth topics from the lectures
+
+Deadlines:
+
+  - Topic/scope/group approval:     November 1st
+  - Draft submission for feedback:  November 23rd
+  - Receive feedback on draft:      December 1st
+  - Final submission: <font color='red'>December 22nd at 23:59</font>.
+
+The project description is available here: [PDF]() (last updated: 22/8)
+
+### Grading
+
+You must pass both assignments to pass the course; at least 40% on each.
+
+We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/English/Grading+scale+using+percentage+points) to assign combined grades.
+
+Latex-template for the assignments: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).
+
 ## Lecture Plan
 
 We have the following slots this semester:
