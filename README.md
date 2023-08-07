@@ -7,8 +7,8 @@
 
 *The course covers how to implement, analyse, attack, protect and securely compose cryptographic algorithms in practice.  
 It goes in depth on how to implement computer arithmetic, attacking implementations using side-channel attacks and fault  
-injection, exploit padding oracles and low-entropy randomness, utilise techniques to defend against these attacks, and  
-wow to securely design misuse-resistant APIs.*
+injection, exploit padding oracles and low-entropy randomness, utilise techniques to defend against these attacks, and how  
+to securely design misuse-resistant APIs.*
 
 See the full course description at [ntnu.edu/studies/courses/TTM4205](https://www.ntnu.edu/studies/courses/TTM4205).
 
