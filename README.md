@@ -5,7 +5,9 @@
 
 ## Course Description
 
-See course description at [ntnu.edu/studies/courses/TTM4205](https://www.ntnu.edu/studies/courses/TTM4205).
+The course covers how to implement, analyse, attack, protect and securely compose cryptographic algorithms in practice. It goes in depth on how to implement computer arithmetic, attacking implementations using side-channel attacks and fault injection, exploit padding oracles and low-entropy randomness, utilise techniques to defend against these attacks, and how to securely design misuse-resistant APIs.
+
+See the full course description at [ntnu.edu/studies/courses/TTM4205](https://www.ntnu.edu/studies/courses/TTM4205).
 
 ## Course Staff
 
@@ -45,23 +47,23 @@ This assignment will contain the following kind of problems:
 
 The submission deadline is <font color='red'>December 1st at 23:59</font>.
 
-The problems are available here: [PDF]() (last updated: 22/8)
+The problems are available here: [PDF]() (not available yet)
 
 ### Special Topic Project (60 points)
 
-This assignment is to write a paper about the following:
+This assignment is to write a paper about one of the following:
 
   - Topics not covered by the lectures
   - In-depth topics from the lectures
 
-Deadlines:
+*Deadlines:*
 
-  - Topic/scope/group approval:     November 1st
-  - Draft submission for feedback:  November 23rd
-  - Receive feedback on draft:      December 1st
+  - Topic/scope/group approval:     **November 1st**
+  - Draft submission for feedback:  **November 23rd**
+  - Receive feedback on draft:      **December 1st**
   - Final submission: <font color='red'>December 22nd at 23:59</font>.
 
-The project description is available here: [PDF]() (last updated: 22/8)
+The project description is available here: [PDF]() (not available yet)
 
 ### Grading
 
