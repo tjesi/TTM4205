@@ -9,19 +9,19 @@ See course description at [ntnu.edu/studies/courses/TTM4205](https://www.ntnu.ed
 
 ## Course Staff
 
-Lecturer:             Tjerand Silde\
-Contact:              [tjerand.silde@ntnu.no](mailto:tjerand.silde@ntnu.no)\
-Office:               [Electro B225](https://link.mazemap.com/F1ujWlEP)\
+Lecturer:             Tjerand Silde  
+Contact:              [tjerand.silde@ntnu.no](mailto:tjerand.silde@ntnu.no)  
+Office:               [Electro B225](https://link.mazemap.com/F1ujWlEP)  
 Webpage:              [tjerandsilde.no](https://tjerandsilde.no)
 
-Lab Assistant:        Jonathan Komada Eriksen\
-Contact:              [jonathan.k.eriksen@ntnu.no](mailto:jonathan.k.eriksen@ntnu.no)\
-Office:               [Electro B216](https://link.mazemap.com/G4kcT7sc)\
+Lab Assistant:        Jonathan Komada Eriksen  
+Contact:              [jonathan.k.eriksen@ntnu.no](mailto:jonathan.k.eriksen@ntnu.no)  
+Office:               [Electro B216](https://link.mazemap.com/G4kcT7sc)  
 Webpage:              [jonathke.github.io](https://jonathke.github.io)
 
-Substitute Lecturer:  Caroline Sandsbråten\
-Contact:              [caroline.sandsbraten@ntnu.no](mailto:caroline.sandsbraten@ntnu.no)\
-Office:               [Electro B211](https://link.mazemap.com/DBIM3jA0)\
+Substitute Lecturer:  Caroline Sandsbråten  
+Contact:              [caroline.sandsbraten@ntnu.no](mailto:caroline.sandsbraten@ntnu.no)  
+Office:               [Electro B211](https://link.mazemap.com/DBIM3jA0)  
 Webpage:              [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu.edu/employees/caroline.sandsbraten)
 
 ## Piazza Forum
