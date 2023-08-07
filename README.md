@@ -33,7 +33,7 @@ Webpage:  &nbsp;                    [ntnu.edu/employees/caroline.sandsbraten](ht
 
 We will use Piazza as forum in this course.  
 Go to [piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205).  
-The sign-up code is: **3dnp6nmmz59**.
+The sign-up code is: **3dnp6nmmz59**
 
 ## Portfolio Assignment
 
