@@ -66,6 +66,8 @@ This assignment is to write a paper about one of the following:
   - Receive feedback on draft:      **December 1st**
   - Final submission: <font color='red'>December 22nd at 23:59</font>.
 
+Latex-template for the paper: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).
+
 The project description is available here: [PDF]() (not available yet)
 
 ### Grading
@@ -74,7 +76,20 @@ You must pass both assignments to pass the course; at least 40% on each.
 
 We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/English/Grading+scale+using+percentage+points) to assign combined grades.
 
-Latex-template for the assignments: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).
+## Course materials
+
+The course materials are the lecture slides and the assignements.  
+This includes referred papers and recordings given in the slides.
+
+We do not require that you buy any books, but can recommed the following:
+
+  1. *Serious Cryptography* by Jean-Philippe Aumasson at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/serious-cryptography/9781593278267)
+  2. *Real-World Cryptography* by David Wong at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/real-world-cryptography/9781617296710)
+
+Additional great resources in applied cryptography is:
+
+  - *A Graduate Course in Applied Cryptography* by Dan Boneh and Victor Shoup at [toc.cryptobook.us](https://toc.cryptobook.us)
+  - *Introduction to Modern Cryptography* by Jonathan Katz and Yehud Lindell at [akademika.no](https://www.akademika.no/realfag/matematikk/introduction-modern-cryptography/9780815354369)
 
 ## Lecture Plan
 
