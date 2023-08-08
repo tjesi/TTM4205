@@ -78,7 +78,8 @@ This assignment is to write a paper about one of the following:
 
   - Groups of 1-3 members
   - Papers of 10-20 pages
-  - Written in LaTeX
+  - Papers written in LaTeX
+  - Short oral presentations
 
 *Deadlines:*
 
