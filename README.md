@@ -1,5 +1,5 @@
 
-**This will be the official course website for TTM4205 Secure Cryptographic Implementations fall 2023.**
+**This will be the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2023.**
 
 <base target="_blank">
 
@@ -37,7 +37,7 @@ The sign-up code is: **3dnp6nmmz59**
 
 ## Course materials
 
-The course materials are the lecture slides, references therin, and the assignments.  
+The course materials are the lecture slides, references therein, and the assignments.  
 We do not require that you buy any books, but can recommend the following literature:
 
   1. *Serious Cryptography* by Jean-Philippe Aumasson at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/serious-cryptography/9781593278267)
