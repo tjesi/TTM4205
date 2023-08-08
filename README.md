@@ -45,7 +45,7 @@ We do not require that you buy any books, but can recommend the following litera
 
 Additional great resources in applied cryptography are:
 
-  - *A Graduate Course in Applied Cryptography* by Dan Boneh and Victor Shoup at [toc.cryptobook.us](https://toc.cryptobook.us)
+  - *A Graduate Course in Applied Cryptography* by Dan Boneh and Victor Shoup at [toc.cryptobook.us](https://toc.cryptobook.us) (freely available)
   - *Introduction to Modern Cryptography* by Jonathan Katz and Yehud Lindell at [akademika.no](https://www.akademika.no/realfag/matematikk/introduction-modern-cryptography/9780815354369) or [NTNU University Library](https://bibsys-almaprimo.hosted.exlibrisgroup.com/permalink/f/11qff65/BIBSYS_ILS71538829360002201)
 
 ## Portfolio Assignment
