@@ -31,24 +31,22 @@ Webpage:  &nbsp;                    [ntnu.edu/employees/caroline.sandsbraten](ht
 
 ## Piazza Forum
 
-We will use Piazza as forum in this course.  
+We will use Piazza as a forum in this course.  
 Go to [piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205).  
 The sign-up code is: **3dnp6nmmz59**
 
 ## Course materials
 
-The course materials are the lecture slides and the assignements.  
-This includes referred papers and recordings given in the slides.
-
-We do not require that you buy any books, but can recommed the following:
+The course materials are the lecture slides, references therin, and the assignments.  
+We do not require that you buy any books, but can recommend the following literature:
 
   1. *Serious Cryptography* by Jean-Philippe Aumasson at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/serious-cryptography/9781593278267)
   2. *Real-World Cryptography* by David Wong at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/real-world-cryptography/9781617296710)
 
-Additional great resources in applied cryptography is:
+Additional great resources in applied cryptography are:
 
   - *A Graduate Course in Applied Cryptography* by Dan Boneh and Victor Shoup at [toc.cryptobook.us](https://toc.cryptobook.us)
-  - *Introduction to Modern Cryptography* by Jonathan Katz and Yehud Lindell at [akademika.no](https://www.akademika.no/realfag/matematikk/introduction-modern-cryptography/9780815354369)
+  - *Introduction to Modern Cryptography* by Jonathan Katz and Yehud Lindell at [akademika.no](https://www.akademika.no/realfag/matematikk/introduction-modern-cryptography/9780815354369) or [NTNU University Library](https://bibsys-almaprimo.hosted.exlibrisgroup.com/permalink/f/11qff65/BIBSYS_ILS71538829360002201)
 
 ## Portfolio Assignment
 
@@ -69,12 +67,10 @@ The problems are available here: [PDF]() (not available yet)
 
 ### Special Topic Project (60 points)
 
-This assignment is to write a paper about one of the following:
+This assignment is to write a paper about either a topic not covered  
+by the lectures, or to cover a topic from the lectures more in-depth.
 
-  - Topics not covered by the lectures
-  - In-depth topics from the lectures
-
-*High-level summary:*
+*Most important guidelines:*
 
   - Groups of 1-3 members
   - Papers of 10-20 pages
@@ -84,6 +80,7 @@ This assignment is to write a paper about one of the following:
 *Deadlines:*
 
   - Topic/scope/group approval:     **November 1st**
+  - Short oral presentations:       **November 23rd**
   - Draft submission for feedback:  **November 23rd**
   - Receive feedback on draft:      **December 1st**
   - Final submission: <font color='red'>December 22nd at 23:59</font>.
