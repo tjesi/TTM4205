@@ -29,6 +29,10 @@ Contact:  &ensp;&nbsp;              [caroline.sandsbraten@ntnu.no](mailto:caroli
 Office:   &ensp;&ensp;&ensp;&nbsp;  [Electro B211](https://link.mazemap.com/DBIM3jA0)  
 Webpage:  &nbsp;                    [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu.edu/employees/caroline.sandsbraten)
 
+## Reference Group
+
+Get in touch if you have signed up for the course and want to be involved :)
+
 ## Piazza Forum
 
 We will use Piazza as a forum in this course.  
