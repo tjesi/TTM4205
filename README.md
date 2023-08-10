@@ -89,7 +89,8 @@ by the lectures, or to cover a topic from the lectures more in-depth.
   - Receive feedback on draft:      **December 1st**
   - Final submission: <font color='red'>December 22nd at 23:59</font>.
 
-Latex-template for the paper: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).
+Latex-template for the paper: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).  
+Latex-template for the presentation: (will be made available).
 
 The project description is available here: [PDF]() (not available yet)
 
