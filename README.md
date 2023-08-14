@@ -67,7 +67,7 @@ This assignment will contain the following kind of problems:
 
 The submission deadline is <font color='red'>December 1st at 23:59</font>.
 
-The problems are available here: [PDF]() (not available yet)
+The problems are available here: [PDF]() (available at the latest from 22/8)
 
 ### Special Topic Project (60 points)
 
@@ -92,7 +92,7 @@ by the lectures, or to cover a topic from the lectures more in-depth.
 Latex-template for the paper: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).  
 Latex-template for the presentation: (will be made available).
 
-The project description is available here: [PDF]() (not available yet)
+The project description is available here: [PDF]() (available at the latest from 22/8)
 
 ### Grading
 
