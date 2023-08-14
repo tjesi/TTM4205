@@ -108,6 +108,12 @@ We have the following slots this semester:
 * Tuesdays at 14:15-16:00 in [R92](https://link.mazemap.com/d6jlRO3B): Lab Session/Exercises
 * Thursdays at 10:15-12:00 in [B3](https://link.mazemap.com/lAdJJfsN): Lecture *OR* Lab/Exercises
 
+Special Topics Lectures in November:
+
+1. Tuesday 14/11: Speaker(s) and title(s) to be announced...
+2. Thursday 16/11: Oskar Goldhahn & Morten Solberg (NTNU). Titles TBA.
+3. Tuesday 21/11: Håkon Jacobsen (Thales Norway). Title TBA.
+
 (the schedule will be subject to small changes)
 
 | Week | Date  | Format                            | Responsible | Topic                           | Resources     |
@@ -151,6 +157,6 @@ We have the following slots this semester:
 | 46   | 14/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 1 TBA    |               |
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |               |
 | 46   | 16/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 2 TBA    |               |
-| 47   | 21/11 | <font color='blue'>Lecture</font> | Jonathan    | Special Topics Lecture 3 TBA    |               |
+| 47   | 21/11 | <font color='blue'>Lecture</font> | Tjerand     | Guest Lecture: Håkon Jacobsen   |               |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assigments                      |               |
 | 47   | 23/11 | <font color='blue'>Lecture</font> | Tjerand     | ***Project Presentations***     |               |
