@@ -104,15 +104,15 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 
 We have the following slots this semester:
 
-* Tuesdays at 12:15-14:00 in [R92](https://link.mazemap.com/d6jlRO3B): Lectures
-* Tuesdays at 14:15-16:00 in [R92](https://link.mazemap.com/d6jlRO3B): Lab Session/Exercises
-* Thursdays at 10:15-12:00 in [B3](https://link.mazemap.com/lAdJJfsN): Lecture *OR* Lab/Exercises
+* Tuesdays at 12:15-14:00 in [R92](https://link.mazemap.com/d6jlRO3B): <font color='blue'>Lectures</font>
+* Tuesdays at 14:15-16:00 in [R92](https://link.mazemap.com/d6jlRO3B): <font color='red'>Lab Session/Exercises</font>
+* Thursdays at 10:15-12:00 in [B3](https://link.mazemap.com/lAdJJfsN): <font color='blue'>Lecture</font> *OR* <font color='red'>Lab/Exercises</font>
 
 Special Topics Lectures in November:
 
-1. Tuesday 14/11: Speaker(s) and title(s) to be announced...
-2. Thursday 16/11: Oskar Goldhahn & Morten Solberg (NTNU). Titles TBA.
-3. Tuesday 21/11: Håkon Jacobsen (Thales Norway). Title TBA.
+1. **Tuesday 14/11**: Speaker(s) and title(s) to be announced...
+2. **Thursday 16/11**: Oskar Goldhahn & Morten Solberg (NTNU). Titles TBA.
+3. **Tuesday 21/11**: Håkon Jacobsen (Thales Norway). Title TBA.
 
 (the schedule will be subject to small changes)
 
