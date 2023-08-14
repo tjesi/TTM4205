@@ -154,9 +154,9 @@ Special Topics Lectures in November:
 | 45   | 7/11  | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 3          |               |
 | 45   | 7/11  | <font color='red'>Lab/Ex</font>   | Jonathan    | Composition Exercises 3         |               |
 | 45   | 9/11  | <font color='blue'>Lecture</font> | Tjerand     | Course Summary                  |               |
-| 46   | 14/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 1 TBA    |               |
+| 46   | 14/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 1        |               |
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |               |
-| 46   | 16/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 2 TBA    |               |
-| 47   | 21/11 | <font color='blue'>Lecture</font> | Tjerand     | Guest Lecture: Håkon Jacobsen   |               |
+| 46   | 16/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 2        |               |
+| 47   | 21/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 3        |               |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assigments                      |               |
 | 47   | 23/11 | <font color='blue'>Lecture</font> | Tjerand     | ***Project Presentations***     |               |
