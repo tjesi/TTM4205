@@ -125,7 +125,7 @@ Special Topics Lectures in November:
 | 35   | 29/8  | <font color='red'>Lab/Ex</font>   | Caroline    | Randomness Exercises            |               |
 | 35   | 31/8  | <font color='blue'>Lecture</font> | Tjerand     | Randomness 3                    |               |
 | 36   | 5/9   | <font color='blue'>Lecture</font> | Tjerand     | Legacy Crypto 1                 |               |
-| 36   | 5/9   | <font color='red'>Lab/Ex</font>   | Tjerand     | Legacy Crypto Exercises         |               |
+| 36   | 5/9   | <font color='red'>Lab/Ex</font>   | Jonathan    | Legacy Crypto Exercises         |               |
 | 36   | 7/9   | <font color='blue'>Lecture</font> | Tjerand     | Legacy Crypto 2                 |               |
 | 37   | 12/9  | <font color='blue'>Lecture</font> | Tjerand     | Side-Channel Attacks 1          |               |
 | 37   | 12/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 1                       |               |
