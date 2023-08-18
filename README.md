@@ -52,13 +52,6 @@ Additional great resources in applied cryptography are:
   - *A Graduate Course in Applied Cryptography* by Dan Boneh and Victor Shoup at [toc.cryptobook.us](https://toc.cryptobook.us) (freely available)
   - *Introduction to Modern Cryptography* by Jonathan Katz and Yehud Lindell at [akademika.no](https://www.akademika.no/realfag/matematikk/introduction-modern-cryptography/9780815354369) or [NTNU University Library](https://bibsys-almaprimo.hosted.exlibrisgroup.com/permalink/f/11qff65/BIBSYS_ILS71538829360002201)
 
-Some older but still insightful in-depth resources are (available at the NTNU network):
-
-  - *Cryptographic Engineering* by Çetin Kaya Koç at [springer.com](https://link.springer.com/book/10.1007/978-0-387-71817-0)
-  - *Timing Channels in Cryptography* by Chester Rebeiro, Debdeep Mukhopadhyay, and Sarani Bhattacharya at [springer.com](https://link.springer.com/book/10.1007/978-3-319-12370-7)
-  - *Power Analysis Attacks* by Stefan Mangard, Elisabeth Oswald, and Thomas Popp at [springer.com](https://link.springer.com/book/10.1007/978-0-387-38162-6)
-  - *Fault Analysis in Cryptography* by Marc Joye and Michael Tunstall (editors) at [springer.com](https://link.springer.com/book/10.1007/978-3-642-29656-7)
-
 ## Portfolio Assignment
 
 The evaluation in this course will consist of two assignments of 100 points total.
