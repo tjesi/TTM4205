@@ -102,7 +102,7 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 
 ## Lecture Plan
 
-We have the following slots this semester:
+We have the following sessions this semester:
 
 * Tuesdays at 12:15-14:00 in [R92](https://link.mazemap.com/d6jlRO3B): <font color='blue'>Lectures</font>
 * Tuesdays at 14:15-16:00 in [R92](https://link.mazemap.com/d6jlRO3B): <font color='red'>Lab Session/Exercises</font>
