@@ -92,7 +92,7 @@ by the lectures, or to cover a topic from the lectures more in-depth.
 Latex-template for the paper: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).  
 Latex-template for the presentation: [overleaf.com/read/zjqxggmjnzqp](https://www.overleaf.com/read/zjqxggmjnzqp).
 
-The project description is available here: [PDF]() (available at the latest from 22/8)
+The project description is available here: [PDF](https://tjerandsilde.no/files/TTM4205_Special_Topic_Project.pdf) (published 18/8)
 
 ### Grading
 
