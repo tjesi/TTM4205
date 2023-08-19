@@ -67,7 +67,7 @@ This assignment will contain the following kind of problems:
 
 The submission deadline is <font color='red'>December 1st at 23:59</font>.
 
-The problems are available here: [PDF]() (available at the latest from 22/8)
+The problems are available here: [PDF](https://tjerandsilde.no/files/TTM4205_Weekly_Problems.pdf) (published 19/8)
 
 ### Special Topic Project (60 points)
 
