@@ -46,6 +46,7 @@ We do not require that you buy any books, but can recommend the following litera
 
   1. *Serious Cryptography* by Jean-Philippe Aumasson at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/serious-cryptography/9781593278267)
   2. *Real-World Cryptography* by David Wong at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/real-world-cryptography/9781617296710)
+  3. *The Hardware Hacking Handbook* by Jasper van Woudenberg and Colin O'Flynn at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/hardware-hacking-handbook/9781593278748)
 
 Additional great resources in applied cryptography are:
 
@@ -119,7 +120,7 @@ Special Topics Lectures in November:
 | Week | Date  | Format                            | Responsible | Topic                           | Resources     |
 |------|-------|-----------------------------------|-------------|---------------------------------|---------------|
 | 34   | 22/8  | <font color='blue'>Lecture</font> | Tjerand     | Course Introduction             |               |
-| 34   | 22/8  | <font color='red'>Lab/Ex</font>   | Tjerand     | Overview & Assignments & Setup  |               |
+| 34   | 22/8  | <font color='red'>Lab/Ex</font>   | Tjerand     | Assignments & Setup             |               |
 | 34   | 24/8  | <font color='blue'>Lecture</font> | Tjerand     | Randomness 1                    |               |
 | 35   | 29/8  | <font color='blue'>Lecture</font> | Caroline    | Randomness 2                    |               |
 | 35   | 29/8  | <font color='red'>Lab/Ex</font>   | Caroline    | Randomness Exercises            |               |
