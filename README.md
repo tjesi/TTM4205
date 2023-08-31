@@ -124,7 +124,7 @@ Special Topics Lectures in November:
 | 34   | 24/8  | <font color='blue'>Lecture</font> | Tjerand     | Randomness 1                    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-2.pdf)                    |
 | 35   | 29/8  | <font color='blue'>Lecture</font> | Caroline    | Randomness 2                    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-3.pdf)                    |
 | 35   | 29/8  | <font color='red'>Lab/Ex</font>   | Caroline    | Randomness Exercises            |                                                                                  |
-| 35   | 31/8  | <font color='blue'>Lecture</font> | Tjerand     | Randomness 3                    |                                                                                  |
+| 35   | 31/8  | <font color='blue'>Lecture</font> | Tjerand     | Randomness 3                    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-4.pdf)                    |
 | 36   | 5/9   | <font color='blue'>Lecture</font> | Tjerand     | Legacy Crypto 1                 |                                                                                  |
 | 36   | 5/9   | <font color='red'>Lab/Ex</font>   | Jonathan    | Legacy Crypto Exercises         |                                                                                  |
 | 36   | 7/9   | <font color='blue'>Lecture</font> | Tjerand     | Legacy Crypto 2                 |                                                                                  |
