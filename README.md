@@ -31,7 +31,9 @@ Webpage:  &nbsp;                    [ntnu.edu/employees/caroline.sandsbraten](ht
 
 ## Reference Group
 
-Get in touch if you have signed up for the course and want to be involved :)
+We are looking for some more members from the KOMTEK masters program to join the reference group.
+
+Current members: Nimer Amol Singh (nimers) from MSSECCLO and Espen Sund (espen.sund) from MSMNFMA.
 
 ## Piazza Forum
 
