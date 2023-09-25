@@ -40,7 +40,7 @@ The reference group consist of the following members:
 
 Reference group meetings:
 
-- Thursday September 21st: [summary](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-september-21.pdf)
+- Thursday September 21st: [Notes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-september-21.pdf)
 
 ## Piazza Forum
 
