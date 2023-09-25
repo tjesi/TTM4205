@@ -38,6 +38,10 @@ The reference group consist of the following members:
   - Diderik Kramer (diderikk) from MSTCNNS
   - Simen Urnes (simen.urnes) from MTKOM
 
+Reference group meetings:
+
+- Thursday September 21st: [summary](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-september-21.pdf)
+
 ## Piazza Forum
 
 We will use Piazza as a forum in this course.  
