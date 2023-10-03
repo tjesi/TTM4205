@@ -146,7 +146,7 @@ Special Topics Lectures in November:
 | 39   | 26/9  | <font color='blue'>Lecture</font> | Tjerand     | Side-Channel Attacks 3          | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-9.pdf)                    |
 | 39   | 26/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 5                       |                                                                                  |
 | 39   | 28/9  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 6                       |                                                                                  |
-| 40   | 3/10  | <font color='blue'>Lecture</font> | Jonathan    | Side-Channel Attacks 4          |                                                                                  |
+| 40   | 3/10  | <font color='blue'>Lecture</font> | Jonathan    | Side-Channel Attacks 4          | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-10.pdf)                   |
 | 40   | 3/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 7                       |                                                                                  |
 | 40   | 5/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 8                       |                                                                                  |
 | 41   | 10/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocol APIs 1                 |                                                                                  |
