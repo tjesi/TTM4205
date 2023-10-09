@@ -120,9 +120,9 @@ We have the following sessions this semester:
 
 Special Topics Lectures in November:
 
-1. **Tuesday 14/11**: Speaker(s) and title(s) to be announced...
-2. **Thursday 16/11**: Oskar Goldhahn (NTNU). Title TBA.
-3. **Tuesday 21/11**: Håkon Jacobsen (Thales Norway). Title TBA.
+1. **Tuesday 14/11**: Håkon Jacobsen (Thales Norway). Title TBA.
+2. **Thursday 16/11**: Oskar Goldhahn (IMF, NTNU). Title TBA.
+3. **Tuesday 21/11**: Vadim Lyubashevsky (IBM Zurich). Title TBA.
 
 (the schedule will be subject to small changes)
 
@@ -149,8 +149,8 @@ Special Topics Lectures in November:
 | 40   | 3/10  | <font color='blue'>Lecture</font> | Jonathan    | Side-Channel Attacks 4          | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-10.pdf)                   |
 | 40   | 3/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 7                       |                                                                                  |
 | 40   | 5/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 8                       |                                                                                  |
-| 41   | 10/10 | ~~<font color='blue'>Lecture</font>~~ | ~~Tjerand~~ | ~~Protocol APIs 1~~         |                                                                                  |
-| 41   | 10/10 | ~~<font color='red'>Lab/Ex</font>~~   | ~~Tjerand~~ | ~~Protocol API Exercises~~  |                                                                                  |
+| 41   | ~~10/10~~ | ~~<font color='blue'>Lecture</font>~~ | ~~Tjerand~~ | ~~Protocol APIs 1~~     |                                                                                  |
+| 41   | ~~10/10~~ | ~~<font color='red'>Lab/Ex</font>~~   | ~~Tjerand~~ | ~~Protocol Exercises~~  |                                                                              |
 | 41   | 12/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocols APIs 2                |                                                                                  |
 | 42   | 17/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 1               |                                                                                  |
 | 42   | 17/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Padding Exercises               |                                                                                  |
