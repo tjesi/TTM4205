@@ -149,11 +149,11 @@ Special Topics Lectures in November:
 | 40   | 3/10  | <font color='blue'>Lecture</font> | Jonathan    | Side-Channel Attacks 4          | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-10.pdf)                   |
 | 40   | 3/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 7                       |                                                                                  |
 | 40   | 5/10  | <font color='red'>Lab/Ex</font>   | Jonathan    | SCA Lab 8                       |                                                                                  |
-| 41   | ~~10/10~~ | ~~<font color='blue'>Lecture</font>~~ | ~~Tjerand~~ | ~~Protocol APIs 1~~     |                                                                                  |
-| 41   | ~~10/10~~ | ~~<font color='red'>Lab/Ex</font>~~   | ~~Tjerand~~ | ~~Protocol Exercises~~  |                                                                              |
-| 41   | 12/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocols APIs 2                |                                                                                  |
+| 41   | ~~10/10~~ | ~~<font color='blue'>Lecture</font>~~ | ~~Tjerand~~ | ~~Protocol APIs~~       |                                                                                  |
+| 41   | ~~10/10~~ | ~~<font color='red'>Lab/Ex</font>~~   | ~~Tjerand~~ | ~~Protocol Exercises~~  |                                                                                  |
+| 41   | 12/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocols APIs                  | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-11.pdf)                   |
 | 42   | 17/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 1               |                                                                                  |
-| 42   | 17/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Padding Exercises               |                                                                                  |
+| 42   | 17/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | API and Padding Exercises       |                                                                                  |
 | 42   | 19/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 2               |                                                                                  |
 | 43   | 24/10 | <font color='blue'>Lecture</font> | Tjerand     | Commitments and Zero-Knowledge  |                                                                                  |
 | 43   | 24/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Com + ZK Exercises              |                                                                                  |
@@ -167,6 +167,6 @@ Special Topics Lectures in November:
 | 46   | 14/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 1        |                                                                                  |
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |                                                                                  |
 | 46   | 16/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 2        |                                                                                  |
-| 47   | 21/11 | <font color='blue'>Lecture</font> | Jonathan    | Special Topics Lecture 3        |                                                                                  |
+| 47   | 21/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 3        |                                                                                  |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assigments                      |                                                                                  |
 | 47   | 23/11 | <font color='blue'>Lecture</font> | Tjerand     | ***Project Presentations***     |                                                                                  |
