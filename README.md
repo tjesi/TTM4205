@@ -160,7 +160,7 @@ Special Topics Lectures in November:
 | 43   | 26/10 | <font color='blue'>Lecture</font> | Jonathan    | Protocol Composition 1          |                                                                                  |
 | 44   | 31/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 2          |                                                                                  |
 | 44   | 31/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Composition Exercises 1         |                                                                                  |
-| 44   | 2/11  | <font color='blue'>Lecture</font> | Jonatha     | Composition Exercises 2         |                                                                                  |
+| 44   | 2/11  | <font color='red'>Lab/Ex</font>   | Jonathan    | Composition Exercises 2         |                                                                                  |
 | 45   | 7/11  | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 3          |                                                                                  |
 | 45   | 7/11  | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |                                                                                  |
 | 45   | 9/11  | <font color='blue'>Lecture</font> | Tjerand     | Course Summary                  |                                                                                  |
