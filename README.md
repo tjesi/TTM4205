@@ -152,7 +152,7 @@ Special Topics Lectures in November:
 | 41   | ~~10/10~~ | ~~<font color='blue'>Lecture</font>~~ | ~~Tjerand~~ | ~~Protocol APIs~~       |                                                                                  |
 | 41   | ~~10/10~~ | ~~<font color='red'>Lab/Ex</font>~~   | ~~Tjerand~~ | ~~Protocol Exercises~~  |                                                                                  |
 | 41   | 12/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocols APIs                  | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-11.pdf)                   |
-| 42   | 17/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 1               |                                                                                  |
+| 42   | 17/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 1               | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-12.pdf)                   |
 | 42   | 17/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | API and Padding Exercises       |                                                                                  |
 | 42   | 19/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 2               |                                                                                  |
 | 43   | 24/10 | <font color='blue'>Lecture</font> | Tjerand     | Commitments and Zero-Knowledge  |                                                                                  |
@@ -160,8 +160,8 @@ Special Topics Lectures in November:
 | 43   | 26/10 | <font color='blue'>Lecture</font> | Jonathan    | Protocol Composition 1          |                                                                                  |
 | 44   | 31/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 2          |                                                                                  |
 | 44   | 31/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Composition Exercises 1         |                                                                                  |
-| 44   | 2/11  | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 3          |                                                                                  |
-| 45   | 7/11  | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 4          |                                                                                  |
+| 44   | 2/11  | <font color='blue'>Lecture</font> | Jonatha     | Composition Exercises 2         |                                                                                  |
+| 45   | 7/11  | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 3          |                                                                                  |
 | 45   | 7/11  | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |                                                                                  |
 | 45   | 9/11  | <font color='blue'>Lecture</font> | Tjerand     | Course Summary                  |                                                                                  |
 | 46   | 14/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 1        |                                                                                  |
