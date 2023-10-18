@@ -120,9 +120,9 @@ We have the following sessions this semester:
 
 Special Topics Lectures in November:
 
-1. **Tuesday 14/11**: Håkon Jacobsen (Thales Norway). Title TBA.
-2. **Thursday 16/11**: Oskar Goldhahn (IMF, NTNU). Title TBA.
-3. **Tuesday 21/11**: Vadim Lyubashevsky (IBM Zurich). Title TBA.
+1. **Tuesday 14/11**: Håkon Jacobsen (Thales Norway) on "Secure Implementation"
+2. **Thursday 16/11**: Oskar Goldhahn (IMF, NTNU) on "Formal Verification"
+3. **Tuesday 21/11**: Vadim Lyubashevsky (IBM Zurich) on "Post-Quantum Crypto"
 
 (the schedule will be subject to small changes)
 
