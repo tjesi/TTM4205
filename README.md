@@ -155,7 +155,7 @@ Special Topics Lectures in November:
 | 42   | 17/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 1               | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-12.pdf)                   |
 | 42   | 17/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | API and Padding Exercises       |                                                                                  |
 | 42   | 19/10 | <font color='blue'>Lecture</font> | Tjerand     | Padding Oracles 2               | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-13.pdf)                   |
-| 43   | 24/10 | <font color='blue'>Lecture</font> | Tjerand     | Commitments and Zero-Knowledge  |                                                                                  |
+| 43   | 24/10 | <font color='blue'>Lecture</font> | Tjerand     | Commitments and Zero-Knowledge  | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-14.pdf)                   |
 | 43   | 24/10 | <font color='red'>Lab/Ex</font>   | Jonathan    | Com + ZK Exercises              |                                                                                  |
 | 43   | 26/10 | <font color='blue'>Lecture</font> | Jonathan    | Protocol Composition 1          |                                                                                  |
 | 44   | 31/10 | <font color='blue'>Lecture</font> | Tjerand     | Protocol Composition 2          |                                                                                  |
