@@ -41,6 +41,7 @@ The reference group consist of the following members:
 Reference group meetings:
 
 - Thursday September 21st: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-september-21.pdf)
+- Tuesday October 31st: [minutes will be available] 
 
 ## Piazza Forum
 
@@ -165,7 +166,7 @@ Special Topics Lectures in November:
 | 45   | 7/11  | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |                                                                                  |
 | 45   | 9/11  | <font color='blue'>Lecture</font> | Tjerand     | Course Summary                  |                                                                                  |
 | 46   | 14/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 1        |                                                                                  |
-| 46   | 14/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assignments                     |                                                                                  |
+| 46   | 14/11 | <font color='red'>Lab/Ex</font>   | Tjerand     | Assignments                     |                                                                                  |
 | 46   | 16/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 2        |                                                                                  |
 | 47   | 21/11 | <font color='blue'>Lecture</font> | Tjerand     | Special Topics Lecture 3        |                                                                                  |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>   | Jonathan    | Assigments                      |                                                                                  |
