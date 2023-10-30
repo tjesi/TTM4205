@@ -168,6 +168,6 @@ Guest Lectures in November:
 | 46   | 14/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Håkon Jacobsen     |                                                                                  |
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Assignments                       |                                                                                  |
 | 46   | 16/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Oskar Goldhahn     |                                                                                  |
-| 47   | 21/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Vadim Lyubashevsky |                                                                                  |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>     | Jonathan    | Assigments                        |                                                                                  |
+| 47   | 21/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Vadim Lyubashevsky |                                                                                  |
 | 47   | 23/11 | <font color='blue'>Lecture</font>   | Tjerand     | ***Project Presentations***       |                                                                                  |
