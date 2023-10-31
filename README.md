@@ -159,7 +159,7 @@ Guest Lectures in November:
 | 43   | 24/10 | <font color='blue'>Lecture</font>   | Tjerand     | Commitments and Zero-Knowledge    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-14.pdf)                   |
 | 43   | 24/10 | <font color='red'>Lab/Ex</font>     | Jonathan    | Com + ZK Exercises                |                                                                                  |
 | 43   | 26/10 | <font color='blue'>Lecture</font>   | Jonathan    | Protocol Composition 1            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-15.pdf)                   |
-| 44   | 31/10 | <font color='blue'>Lecture</font>   | Tjerand     | Protocol Composition 2            |                                                                                  |
+| 44   | 31/10 | <font color='blue'>Lecture</font>   | Tjerand     | Protocol Composition 2            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-16.pdf)                   |
 | 44   | 31/10 | <font color='red'>Lab/Ex</font>     | Jonathan    | Composition Exercises 1           |                                                                                  |
 | 44   | 2/11  | <font color='red'>Lab/Ex</font>     | Jonathan    | Composition Exercises 2           |                                                                                  |
 | 45   | 7/11  | <font color='blue'>Lecture</font>   | Tjerand     | Protocol Composition 3            |                                                                                  |
