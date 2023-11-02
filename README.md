@@ -121,7 +121,7 @@ We have the following sessions this semester:
 
 Guest Lectures in November:
 
-1. **Tuesday 14/11**: Håkon Jacobsen (Thales Norway) on "Secure FPGA Implementation"
+1. **Tuesday 14/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
 2. **Thursday 16/11**: Oskar Goldhahn (IMF, NTNU) on "Formal Verification"
 3. **Tuesday 21/11**: Vadim Lyubashevsky (IBM Zurich) on "Post-Quantum Crypto"
 
