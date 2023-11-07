@@ -162,7 +162,7 @@ Guest Lectures in November:
 | 44   | 31/10 | <font color='blue'>Lecture</font>   | Tjerand     | Protocol Composition 2            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-16.pdf)                   |
 | 44   | 31/10 | <font color='red'>Lab/Ex</font>     | Jonathan    | Composition Exercises 1           |                                                                                  |
 | 44   | 2/11  | <font color='red'>Lab/Ex</font>     | Jonathan    | Composition Exercises 2           |                                                                                  |
-| 45   | 7/11  | <font color='blue'>Lecture</font>   | Tjerand     | Protocol Composition 3            |                                                                                  |
+| 45   | 7/11  | <font color='blue'>Lecture</font>   | Tjerand     | Protocol Composition 3            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-17.pdf)                   |
 | 45   | 7/11  | <font color='red'>Lab/Ex</font>     | Jonathan    | Assignments                       |                                                                                  |
 | 45   | 9/11  | <font color='blue'>Lecture</font>   | Tjerand     | Course Summary                    |                                                                                  |
 | 46   | 14/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Håkon Jacobsen     |                                                                                  |
