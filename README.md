@@ -168,7 +168,7 @@ Guest Lectures in November:
 | 45   | 9/11  | <font color='blue'>Lecture</font>   | Tjerand     | Course Summary                    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-18.pdf)                   |
 | 46   | 14/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Håkon Jacobsen     | [Slides](https://tjerandsilde.no/files/Haakon-Jacobsen-Crypto-and-FPGAs.pdf)     |
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Assignments                       |                                                                                  |
-| 46   | 16/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Oskar Goldhahn     | [Slides](https://tjerandsilde.no/files/Oskar-Goldhahn-Formal-Verification.pdf)   |
+| 46   | 16/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Oskar Goldhahn     | [Slides](https://tjerandsilde.no/files/Oskar-Goldhahn-Formal-Verification.pdf), [Book](https://software.imdea.org/~gbarthe/__introrelver.pdf), [Natural Number Game](https://adam.math.hhu.de/#/g/hhu-adam/NNG4) |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Presentations + Assigments        |                                                                                  |
 | 47   | 21/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Vadim Lyubashevsky |                                                                                  |
 | 47   | 23/11 | <font color='orange'>Projects</font>| Tjerand     | ***Project Presentations***       |                                                                                  |
