@@ -42,6 +42,7 @@ Reference group meetings:
 
 - Thursday September 21st: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-september-21.pdf)
 - Tuesday October 31st: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-october-31.pdf) 
+- Thursday November 23rd: [minutes]
 
 ## Piazza Forum
 
@@ -123,7 +124,7 @@ Guest Lectures in November:
 
 1. **Tuesday 14/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
 2. **Thursday 16/11**: Oskar Goldhahn (IMF, NTNU) on "Formal Verification"
-3. **Tuesday 21/11** at <font color='red'>15-16 in G1</font>: Vadim Lyubashevsky (IBM Zurich) on "Post-Quantum Crypto"
+3. **Tuesday 21/11** at <font color='orange'>15-16 in G1</font>: Vadim Lyubashevsky (IBM Zurich) on "Post-Quantum Crypto"
 
 (the schedule will be subject to small changes)
 
@@ -167,7 +168,11 @@ Guest Lectures in November:
 | 45   | 9/11  | <font color='blue'>Lecture</font>   | Tjerand     | Course Summary                    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-18.pdf)                   |
 | 46   | 14/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Håkon Jacobsen     | [Slides](https://tjerandsilde.no/files/Haakon-Jacobsen-Crypto-and-FPGAs.pdf)     |
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Assignments                       |                                                                                  |
-| 46   | 16/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Oskar Goldhahn     |                                                                                  |
+| 46   | 16/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Oskar Goldhahn     | [Slides](https://tjerandsilde.no/files/Oskar-Goldhahn-Formal-Verification.pdf)   |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Presentations + Assigments        |                                                                                  |
 | 47   | 21/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Vadim Lyubashevsky |                                                                                  |
-| 47   | 23/11 | <font color='blue'>Lecture</font>   | Tjerand     | ***Project Presentations***       |                                                                                  |
+| 47   | 23/11 | <font color='orange'>Project</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
+| 47   | 23/11 | <font color='purple'>Office</font>  | Tjerand     | Office Hours in B255 from 16-18   | [B225 in Mazemap](https://link.mazemap.com/j3GcHVSU)                             |
+| 48   | 28/11 | <font color='purple'>Office</font>  | Jonathan    | Office Hours in B216 from 12-16   | [B216 in Mazemap](https://link.mazemap.com/AE6ZSkTl)                             |
+| 48   | 30/11 | <font color='purple'>Office</font>  | Jonathan    | Office Hours in B216 from 10-12   | [B216 in Mazemap](https://link.mazemap.com/AE6ZSkTl)                             |
+
