@@ -170,8 +170,8 @@ Guest Lectures in November:
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Assignments                       |                                                                                  |
 | 46   | 16/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Oskar Goldhahn     | [Slides](https://tjerandsilde.no/files/Oskar-Goldhahn-Formal-Verification.pdf), [Book](https://software.imdea.org/~gbarthe/__introrelver.pdf), [Natural Number Game](https://adam.math.hhu.de/#/g/hhu-adam/NNG4) |
 | 47   | 21/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | ***Presentations*** + Assigments  |                                                                                  |
-| 47   | 21/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Vadim Lyubashevsky |                                                                                  |
-| 47   | 23/11 | <font color='orange'>Projects</font>| Tjerand     | ***Project Presentations***       | [Slides](https://tjerandsilde.no/files/Vadim-Lyubashevsky-PQC-CBDC.pdf)          |
+| 47   | 21/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Vadim Lyubashevsky | [Slides](https://tjerandsilde.no/files/Vadim-Lyubashevsky-PQC-CBDC.pdf)          |
+| 47   | 23/11 | <font color='orange'>Projects</font>| Tjerand     | ***Project Presentations***       |                                                                                  |
 | 47   | 23/11 | <font color='purple'>Office</font>  | Tjerand     | Office Hours in B225 from 16-18   | [B225 in Mazemap](https://link.mazemap.com/j3GcHVSU)                             |
 | 48   | 28/11 | <font color='purple'>Office</font>  | Jonathan    | Office Hours in B216 from 12-16   | [B216 in Mazemap](https://link.mazemap.com/AE6ZSkTl)                             |
 | 48   | 30/11 | <font color='purple'>Office</font>  | Jonathan    | Office Hours in B216 from 10-12   | [B216 in Mazemap](https://link.mazemap.com/AE6ZSkTl)                             |
