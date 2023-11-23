@@ -77,9 +77,9 @@ This assignment will contain the following kind of problems:
   - CryptoHack problems
   - ChipWhisperer labs
 
-The submission deadline is <font color='red'>December 1st at 23:59</font>.
+The submission deadline is <font color='red'>December 10th at 23:59</font>.
 
-The problems are available here: [PDF](https://tjerandsilde.no/files/TTM4205_Weekly_Problems.pdf) (updated 2/11)
+The problems are available here: [PDF](https://tjerandsilde.no/files/TTM4205_Weekly_Problems.pdf) (updated 23/11)
 
 ### Special Topic Project (60 points)
 
@@ -169,7 +169,7 @@ Guest Lectures in November:
 | 46   | 14/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Håkon Jacobsen     | [Slides](https://tjerandsilde.no/files/Haakon-Jacobsen-Crypto-and-FPGAs.pdf)     |
 | 46   | 14/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Assignments                       |                                                                                  |
 | 46   | 16/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Oskar Goldhahn     | [Slides](https://tjerandsilde.no/files/Oskar-Goldhahn-Formal-Verification.pdf), [Book](https://software.imdea.org/~gbarthe/__introrelver.pdf), [Natural Number Game](https://adam.math.hhu.de/#/g/hhu-adam/NNG4) |
-| 47   | 21/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | Presentations + Assigments        |                                                                                  |
+| 47   | 21/11 | <font color='red'>Lab/Ex</font>     | Tjerand     | ***Presentations*** + Assigments  |                                                                                  |
 | 47   | 21/11 | <font color='orange'>Lecture</font> | Tjerand     | Guest Lecture: Vadim Lyubashevsky |                                                                                  |
 | 47   | 23/11 | <font color='orange'>Projects</font>| Tjerand     | ***Project Presentations***       |                                                                                  |
 | 47   | 23/11 | <font color='purple'>Office</font>  | Tjerand     | Office Hours in B225 from 16-18   | [B225 in Mazemap](https://link.mazemap.com/j3GcHVSU)                             |
