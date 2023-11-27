@@ -42,7 +42,7 @@ Reference group meetings:
 
 - Thursday September 21st: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-september-21.pdf)
 - Tuesday October 31st: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-october-31.pdf) 
-- Thursday November 23rd: [minutes]
+- Thursday November 23rd: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-november-23.pdf)
 
 ## Piazza Forum
 
