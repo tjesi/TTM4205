@@ -173,6 +173,6 @@ Guest Lectures in November:
 | 47   | 21/11 | <font color='orange'>Lecture</font>  | Tjerand     | Guest Lecture: Vadim Lyubashevsky | [Slides](https://tjerandsilde.no/files/Vadim-Lyubashevsky-PQC-CBDC.pdf)          |
 | 47   | 23/11 | <font color='orange'>Projects</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
 | 47   | 23/11 | <font color='purple'>Office</font>   | Tjerand     | Office Hours in B225 from 16-18   | [B225 in Mazemap](https://link.mazemap.com/j3GcHVSU)                             |
-| 48   | 28/11 | <font color='purple'>Office</font>   | Jonathan    | Office Hours in B216 from 12-16   | [B216 in Mazemap](https://link.mazemap.com/AE6ZSkTl)                             |
-| 48   | 30/11 | <font color='purple'>Office</font>   | Jonathan    | Office Hours in B216 from 10-12   | [B216 in Mazemap](https://link.mazemap.com/AE6ZSkTl)                             |
+| 48   | 28/11 | <font color='purple'>Office</font>   | Jonathan    | Office Hours on Zoom from 12-16   | [Zoom](https://ntnu.zoom.us/j/92631229157?pwd=Z1p5cVZxY3pTQmZFNVpQZ045N3lhUT09)  |
+| 48   | 30/11 | <font color='purple'>Office</font>   | Jonathan    | Office Hours on Zoom from 10-12   | [Zoom](https://ntnu.zoom.us/j/92631229157?pwd=Z1p5cVZxY3pTQmZFNVpQZ045N3lhUT09)  |
 
