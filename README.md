@@ -1,7 +1,7 @@
 
 **This will be the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2024.**
 
-[The course material and assignements from fall 2023 is available here](https://tjerandsilde.no/TTM4205/2023).
+[The course material and assignments from fall 2023 are available here](https://tjerandsilde.no/TTM4205/2023).
 
 <base target="_blank">
 
@@ -28,7 +28,7 @@ Webpage:  &nbsp;                    [carosa.no](https://carosa.no)
 
 ## Reference Group
 
-Please get in touch if you want to be a part of the reference group!
+Please get in touch if you want to join the reference group!
 
 ## Piazza Forum
 
@@ -54,7 +54,7 @@ The evaluation in this course will consist of three assignments of 100 points to
 
 ### Weekly problems (40 points)
 
-This assignment will contain the following kind of problems:
+This assignment will contain the following kinds of problems:
 
   - Pen & paper problems
   - Coding problems
@@ -75,8 +75,8 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 ### Technical Essay (40 points)
 
 This assignment is to write a technical essay about either a topic not covered  
-by the lectures, or to cover a topic from the lectures more in-depth. It is
-mandatory for each group to present their work, but it does not impact the grade.
+by the lectures or to cover a topic from the lectures in more depth. It is
+mandatory for each group to present their work, but it does not impact the grades.
 
 *Most important guidelines:*
 
