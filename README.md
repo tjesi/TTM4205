@@ -1,6 +1,8 @@
 
 **This will be the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2024.**
 
+[The course material and assignements from fall 2023 is available here](https://tjerandsilde.no/TTM4205/2023).
+
 <base target="_blank">
 
 ## Course Description
