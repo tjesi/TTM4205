@@ -1,5 +1,5 @@
 
-**This will be the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2023.**
+**This will be the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2024.**
 
 <base target="_blank">
 
@@ -19,36 +19,24 @@ Contact:  &ensp;&nbsp;              [tjerand.silde@ntnu.no](mailto:tjerand.silde
 Office:   &ensp;&ensp;&ensp;&nbsp;  [Electro B225](https://link.mazemap.com/F1ujWlEP)  
 Webpage:  &nbsp;                    [tjerandsilde.no](https://tjerandsilde.no)
 
-Lab/Teaching Assistant:             Jonathan Komada Eriksen  
-Contact:  &ensp;&nbsp;              [jonathan.k.eriksen@ntnu.no](mailto:jonathan.k.eriksen@ntnu.no)  
-Office:   &ensp;&ensp;&ensp;&nbsp;  [Electro B216](https://link.mazemap.com/G4kcT7sc)  
-Webpage:  &nbsp;                    [jonathke.github.io](https://jonathke.github.io)
-
-Substitute Lecturer:                Caroline Sandsbråten  
+Lab/Teaching Assistant:             Caroline Sandsbråten  
 Contact:  &ensp;&nbsp;              [caroline.sandsbraten@ntnu.no](mailto:caroline.sandsbraten@ntnu.no)  
 Office:   &ensp;&ensp;&ensp;&nbsp;  [Electro B211](https://link.mazemap.com/DBIM3jA0)  
-Webpage:  &nbsp;                    [ntnu.edu/employees/caroline.sandsbraten](https://www.ntnu.edu/employees/caroline.sandsbraten)
+Webpage:  &nbsp;                    [carosa.no](https://carosa.no)
 
 ## Reference Group
 
-The reference group consist of the following members:
-
-  - Nimer Amol Singh (nimers) from MSSECCLO
-  - Espen Sund (espen.sund) from MSMNFMA
-  - Diderik Kramer (diderikk) from MSTCNNS
-  - Simen Urnes (simen.urnes) from MTKOM
+Please get in touch if you want to be a part of the reference group!
 
 Reference group meetings:
 
-- Thursday September 21st: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-september-21.pdf)
-- Tuesday October 31st: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-october-31.pdf) 
-- Thursday November 23rd: [minutes](https://tjerandsilde.no/files/TTM4205-reference-group-meeting-november-23.pdf)
+- September: [minutes]()
+- October: [minutes]() 
+- November: [minutes]()
 
 ## Piazza Forum
 
-We will use Piazza as a forum in this course.  
-Go to [piazza.com/ntnu.no/fall2023/ttm4205](https://piazza.com/ntnu.no/fall2023/ttm4205).  
-The sign-up code is: **3dnp6nmmz59**
+We will use Piazza as a forum in this course. TBA.
 
 ## Course materials
 
@@ -66,7 +54,7 @@ Additional great resources in applied cryptography are:
 
 ## Portfolio Assignment
 
-The evaluation in this course will consist of two assignments of 100 points total.
+The evaluation in this course will consist of three assignments of 100 points total.
 
 ### Weekly problems (40 points)
 
@@ -75,16 +63,24 @@ This assignment will contain the following kind of problems:
   - Pen & paper problems
   - Coding problems
   - CryptoHack problems
-  - ChipWhisperer labs
 
-The submission deadline is <font color='red'>December 10th at 23:59</font>.
+The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
-The problems are available here: [PDF](https://tjerandsilde.no/files/TTM4205_Weekly_Problems.pdf) (updated 23/11)
+The problems are available here: [PDF]() (TBA)
 
-### Special Topic Project (60 points)
+### Weekly problems (20 points)
 
-This assignment is to write a paper about either a topic not covered  
-by the lectures, or to cover a topic from the lectures more in-depth.
+This assignment will contain lab work using ChipWhisperer equipment.
+
+The submission deadline is <font color='red'>December 6th at 23:59</font>.
+
+The assignment is available here: [PDF]() (TBA)
+
+### Technical Essay (40 points)
+
+This assignment is to write a technical essay about either a topic not covered  
+by the lectures, or to cover a topic from the lectures more in-depth. It is
+mandatory that each group present their work, but it does not impacte the grade.
 
 *Most important guidelines:*
 
@@ -96,83 +92,22 @@ by the lectures, or to cover a topic from the lectures more in-depth.
 *Deadlines:*
 
   - Topic/scope/group approval:     **November 1st**
-  - Short oral presentations:       **November 23rd**
-  - Draft submission for feedback:  **November 23rd**
-  - Receive feedback on draft:      **December 1st**
-  - Final submission: <font color='red'>December 22nd at 23:59</font>.
+  - Short oral presentations:       **TBA**
+  - Draft submission for feedback:  **TBA**
+  - Receive feedback on draft:      **TBA**
+  - Final submission: <font color='red'>December 20th at 23:59</font>.
 
 Latex-template for the paper: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).  
 Latex-template for the presentation: [overleaf.com/read/zjqxggmjnzqp](https://www.overleaf.com/read/zjqxggmjnzqp).
 
-The project description is available here: [PDF](https://tjerandsilde.no/files/TTM4205_Special_Topic_Project.pdf) (published 18/8)
+The project description is available here: [PDF]() (TBA)
 
 ### Grading
 
-You must pass both assignments to pass the course; at least 40% on each.
+You must pass all assignments to pass the course; at least 40% on each.
 
 We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/English/Grading+scale+using+percentage+points) to assign combined grades.
 
 ## Lecture Plan
 
-We have the following sessions this semester:
-
-* Tuesdays at 12:15-14:00 in [R92](https://link.mazemap.com/d6jlRO3B): <font color='blue'>Lectures</font>
-* Tuesdays at 14:15-16:00 in [R92](https://link.mazemap.com/d6jlRO3B): <font color='red'>Lab Session/Exercises</font>
-* Thursdays at 10:15-12:00 in [B3](https://link.mazemap.com/lAdJJfsN): <font color='blue'>Lecture</font> *OR* <font color='red'>Lab/Exercises</font>
-
-Guest Lectures in November:
-
-1. **Tuesday 14/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
-2. **Thursday 16/11**: Oskar Goldhahn (IMF, NTNU) on "Formal Verification"
-3. **Tuesday 21/11** at <font color='orange'>15-16 in</font> [G1](https://link.mazemap.com/s0TwZryd): Vadim Lyubashevsky (IBM Zurich) on "Post-Quantum Crypto"
-
-(the schedule will be subject to small changes)
-
-| Week | Date  | Format                               | Responsible | Topic                             | Resources                                                                        |
-|------|-------|--------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
-| 34   | 22/8  | <font color='blue'>Lecture</font>    | Tjerand     | Course Introduction               | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-1.pdf)                    |
-| 34   | 22/8  | <font color='red'>Lab/Ex</font>      | Tjerand     | Assignments & Setup               | [Installation Guide](https://github.com/tjesi/TTM4205/blob/main/CW-Setup.ipynb)  |
-| 34   | 24/8  | <font color='blue'>Lecture</font>    | Tjerand     | Randomness 1                      | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-2.pdf)                    |
-| 35   | 29/8  | <font color='blue'>Lecture</font>    | Caroline    | Randomness 2                      | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-3.pdf)                    |
-| 35   | 29/8  | <font color='red'>Lab/Ex</font>      | Caroline    | Randomness Exercises              |                                                                                  |
-| 35   | 31/8  | <font color='blue'>Lecture</font>    | Tjerand     | Randomness 3                      | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-4.pdf)                    |
-| 36   | 5/9   | <font color='blue'>Lecture</font>    | Tjerand     | Legacy Crypto 1                   | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-5.pdf)                    |
-| 36   | 5/9   | <font color='red'>Lab/Ex</font>      | Jonathan    | Legacy Crypto Exercises           |                                                                                  |
-| 36   | 7/9   | <font color='blue'>Lecture</font>    | Tjerand     | Legacy Crypto 2                   | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-6.pdf)                    |
-| 37   | 12/9  | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 1            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-7.pdf)                    |
-| 37   | 12/9  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 1                         |                                                                                  |
-| 37   | 14/9  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 2                         |                                                                                  |
-| 38   | 19/9  | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 2            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-8.pdf)                    |
-| 38   | 19/9  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 3                         |                                                                                  |
-| 38   | 21/9  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 4                         |                                                                                  |
-| 39   | 26/9  | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 3            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-9.pdf)                    |
-| 39   | 26/9  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 5                         |                                                                                  |
-| 39   | 28/9  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 6                         |                                                                                  |
-| 40   | 3/10  | <font color='blue'>Lecture</font>    | Jonathan    | Side-Channel Attacks 4            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-10.pdf)                   |
-| 40   | 3/10  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 7                         |                                                                                  |
-| 40   | 5/10  | <font color='red'>Lab/Ex</font>      | Jonathan    | SCA Lab 8                         |                                                                                  |
-| 41   | ~~10/10~~ | ~~<font color='blue'>Lecture</font>~~ | ~~Tjerand~~ | ~~Protocol APIs~~            |                                                                                  |
-| 41   | ~~10/10~~ | ~~<font color='red'>Lab/Ex</font>~~   | ~~Tjerand~~ | ~~Protocol Exercises~~       |                                                                                  |
-| 41   | 12/10 | <font color='blue'>Lecture</font>    | Tjerand     | Protocols APIs                    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-11.pdf)                   |
-| 42   | 17/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 1                 | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-12.pdf)                   |
-| 42   | 17/10 | <font color='red'>Lab/Ex</font>      | Jonathan    | API and Padding Exercises         |                                                                                  |
-| 42   | 19/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 2                 | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-13.pdf)                   |
-| 43   | 24/10 | <font color='blue'>Lecture</font>    | Tjerand     | Commitments and Zero-Knowledge    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-14.pdf)                   |
-| 43   | 24/10 | <font color='red'>Lab/Ex</font>      | Jonathan    | Com + ZK Exercises                |                                                                                  |
-| 43   | 26/10 | <font color='blue'>Lecture</font>    | Jonathan    | Protocol Composition 1            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-15.pdf)                   |
-| 44   | 31/10 | <font color='blue'>Lecture</font>    | Tjerand     | Protocol Composition 2            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-16.pdf)                   |
-| 44   | 31/10 | <font color='red'>Lab/Ex</font>      | Jonathan    | Composition Exercises 1           |                                                                                  |
-| 44   | 2/11  | <font color='red'>Lab/Ex</font>      | Jonathan    | Composition Exercises 2           |                                                                                  |
-| 45   | 7/11  | <font color='blue'>Lecture</font>    | Tjerand     | Protocol Composition 3            | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-17.pdf)                   |
-| 45   | 7/11  | <font color='red'>Lab/Ex</font>      | Jonathan    | Assignments                       |                                                                                  |
-| 45   | 9/11  | <font color='blue'>Lecture</font>    | Tjerand     | Course Summary                    | [Slides](https://tjerandsilde.no/files/TTM4205-Lecture-18.pdf)                   |
-| 46   | 14/11 | <font color='orange'>Lecture</font>  | Tjerand     | Guest Lecture: Håkon Jacobsen     | [Slides](https://tjerandsilde.no/files/Haakon-Jacobsen-Crypto-and-FPGAs.pdf)     |
-| 46   | 14/11 | <font color='red'>Lab/Ex</font>      | Tjerand     | Assignments                       |                                                                                  |
-| 46   | 16/11 | <font color='orange'>Lecture</font>  | Tjerand     | Guest Lecture: Oskar Goldhahn     | [Slides](https://tjerandsilde.no/files/Oskar-Goldhahn-Formal-Verification.pdf), [Book](https://software.imdea.org/~gbarthe/__introrelver.pdf), [Natural Number Game](https://adam.math.hhu.de/#/g/hhu-adam/NNG4) |
-| 47   | 21/11 | <font color='orange'>Projects</font> | Tjerand     | ***Presentations*** + Assigments  |                                                                                  |
-| 47   | 21/11 | <font color='orange'>Lecture</font>  | Tjerand     | Guest Lecture: Vadim Lyubashevsky | [Slides](https://tjerandsilde.no/files/Vadim-Lyubashevsky-PQC-CBDC.pdf)          |
-| 47   | 23/11 | <font color='orange'>Projects</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
-| 47   | 23/11 | <font color='purple'>Office</font>   | Tjerand     | Office Hours in B225 from 16-18   | [B225 in Mazemap](https://link.mazemap.com/j3GcHVSU)                             |
-| 48   | 28/11 | <font color='purple'>Office</font>   | Jonathan    | Office Hours on Zoom from 12-16   | [Zoom](https://ntnu.zoom.us/j/92631229157?pwd=Z1p5cVZxY3pTQmZFNVpQZ045N3lhUT09)  |
-| 48   | 30/11 | <font color='purple'>Office</font>   | Jonathan    | Office Hours on Zoom from 10-12   | [Zoom](https://ntnu.zoom.us/j/92631229157?pwd=Z1p5cVZxY3pTQmZFNVpQZ045N3lhUT09)  |
-
+We have the following sessions this semester: TBA.
