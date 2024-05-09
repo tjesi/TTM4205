@@ -28,12 +28,6 @@ Webpage:  &nbsp;                    [carosa.no](https://carosa.no)
 
 Please get in touch if you want to be a part of the reference group!
 
-Reference group meetings:
-
-- September: [minutes]()
-- October: [minutes]() 
-- November: [minutes]()
-
 ## Piazza Forum
 
 We will use Piazza as a forum in this course. TBA.
@@ -66,27 +60,27 @@ This assignment will contain the following kind of problems:
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
-The problems are available here: [PDF]() (TBA)
+**The problems will be announced here.**
 
-### Weekly problems (20 points)
+### ChipWhisperer lab (20 points)
 
-This assignment will contain lab work using ChipWhisperer equipment.
+This assignment will contain lab work using the ChipWhisperer equipment.
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
-The assignment is available here: [PDF]() (TBA)
+**The lab work will be announced here.**
 
 ### Technical Essay (40 points)
 
 This assignment is to write a technical essay about either a topic not covered  
 by the lectures, or to cover a topic from the lectures more in-depth. It is
-mandatory that each group present their work, but it does not impacte the grade.
+mandatory for each group to present their work, but it does not impact the grade.
 
 *Most important guidelines:*
 
   - Groups of 1-3 members
-  - Papers of 10-20 pages
-  - Papers written in LaTeX
+  - Essays of 10-20 pages
+  - Essays written in LaTeX
   - Short oral presentations
 
 *Deadlines:*
@@ -94,13 +88,10 @@ mandatory that each group present their work, but it does not impacte the grade.
   - Topic/scope/group approval:     **November 1st**
   - Short oral presentations:       **TBA**
   - Draft submission for feedback:  **TBA**
-  - Receive feedback on draft:      **TBA**
+  - Receive feedback on draft:      **December 6th**
   - Final submission: <font color='red'>December 20th at 23:59</font>.
 
-Latex-template for the paper: [overleaf.com/read/nhcnrbnwzmcw](https://www.overleaf.com/read/nhcnrbnwzmcw).  
-Latex-template for the presentation: [overleaf.com/read/zjqxggmjnzqp](https://www.overleaf.com/read/zjqxggmjnzqp).
-
-The project description is available here: [PDF]() (TBA)
+**The problem description will be announced here.**
 
 ### Grading
 
