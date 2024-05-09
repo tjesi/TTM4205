@@ -75,7 +75,7 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 ### Technical Essay (40 points)
 
 This assignment is to write a technical essay about either a topic not covered  
-by the lectures or to cover a topic from the lectures in more depth. It is
+by the lectures or to cover a topic from the lectures in more depth. It is  
 mandatory for each group to present their work, but it does not impact the grades.
 
 *Most important guidelines:*
