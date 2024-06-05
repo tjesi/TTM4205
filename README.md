@@ -30,9 +30,9 @@ Webpage:  &nbsp;                    [carosa.no](https://carosa.no)
 
 Please get in touch if you want to join the reference group!
 
-## Piazza Forum
+## Ed Forum
 
-We will use Piazza as a forum in this course. TBA.
+We will use Ed as a forum in this course. TBA.
 
 ## Course materials
 
