@@ -32,7 +32,7 @@ Please get in touch if you want to join the reference group!
 
 ## Ed Forum
 
-We will use Ed as a forum in this course. TBA.
+We will use Ed as a forum in this course. Access to the forum is granted for students enrolled and can be found through blackboard sidebar, go to Forum -> Ed Discussion. The forum can also be accessed directly through this link: [edstem.org/eu/courses/1290/](https://edstem.org/eu/courses/1290/discussion/)
 
 ## Course materials
 
