@@ -32,9 +32,9 @@ Please get in touch if you want to join the reference group!
 
 ## Ed Forum
 
-We will use Ed as a forum in this course. Access to the forum is granted for students enrolled and can be found through blackboard sidebar, go to Forum -> Ed Discussion. The forum can also be accessed directly through this link: [edstem.org/eu/courses/1290/](https://edstem.org/eu/courses/1290/discussion/)
+We will use Ed as a forum in this course. Access to the forum is granted for students enrolled and can be found through blackboard sidebar, go to Forum -> Ed Discussion. The forum can also be accessed directly through this link: [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).
 
-## Course materials
+## Course Materials
 
 The course materials are the lecture slides, references therein, and the assignments.  
 We do not require that you buy any books, but can recommend the following literature:
@@ -52,7 +52,7 @@ Additional great resources in applied cryptography are:
 
 The evaluation in this course will consist of three assignments of 100 points total.
 
-### Weekly problems (40 points)
+### Weekly Problems (40 points)
 
 This assignment will contain the following kinds of problems:
 
@@ -64,7 +64,7 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 **The problems will be announced here.**
 
-### ChipWhisperer lab (20 points)
+### ChipWhisperer Lab (20 points)
 
 This assignment will contain lab work using the ChipWhisperer equipment.
 
