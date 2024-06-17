@@ -88,8 +88,8 @@ for each group to present their work, but it does not impact the final grades.
 *Deadlines:*
 
   - Topic/scope/group approval:     **November 1st**
-  - Short oral presentations:       **TBA**
-  - Draft submission for feedback:  **TBA**
+  - Short oral presentations:       **November 19th** or **November 22nd**
+  - Draft submission for feedback:  **November 22nd**
   - Receive feedback on draft:      **December 6th**
   - Final submission: <font color='red'>December 20th at 23:59</font>.
 
@@ -106,7 +106,7 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 We have the following sessions in [lecture room B2](https://link.mazemap.com/ib3uHkZX) this semester:
 
 * Tuesdays at 08:15-10:00: <font color='blue'>Lecture</font> *OR* <font color='orange'>Lab</font>
-* Fridays at 10:15-12:00: <font color='blue'>Lectures</font>
+* Fridays at 10:15-12:00: <font color='blue'>Lecture</font>
 * Fridays at 12:15-14:00: <font color='orange'>Lab/Exercises</font>
 
 (the schedule will be subject to small changes)
@@ -115,7 +115,7 @@ We have the following sessions in [lecture room B2](https://link.mazemap.com/ib3
 |------|-------|--------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
 | 34   | 20/8  | <font color='blue'>Lecture</font>    | Tjerand     | Course Introduction               |                                                                                  |
 | 34   | 23/8  | <font color='blue'>Lecture</font>    | Tjerand     | Randomness 1                      |                                                                                  |
-| 34   | 23/8  | <font color='orange'>Lab/Ex</font>   | Caroline    | Assignments & Setup               |                                                                                  |
+| 34   | 23/8  | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
 | 35   | 27/8  | <font color='blue'>Lecture</font>    | Tjerand     | Randomness 2                      |                                                                                  |
 | 35   | 30/8  | <font color='blue'>Lecture</font>    | Caroline    | Randomness 3                      |                                                                                  |
 | 35   | 30/8  | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
