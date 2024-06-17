@@ -118,7 +118,7 @@ Guest Lectures in November:
 
 | Week | Date  | Format                                    | Responsible | Topic                             | Resources                                                                        |
 |------|-------|-------------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
-| 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               | <a href="https://github.com/tjesi/TTM4205/blob/main/documents/main.pdf">Slides</a>  |
+| 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               | [Slides](https://nbviewer.org/github/tjesi/TTM4205/blob/main/documents/main.pdf) |
 | 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             |                                                                                  |
 | 34   | 23/8  | <font color='orange'>Lab/Ex</font>        | Caroline    | Exercises                         |                                                                                  |
 | 35   | 27/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomisation       |                                                                                  |
