@@ -32,7 +32,7 @@ Please get in touch if you want to join the reference group!
 
 ## Ed Forum
 
-We will use Ed as a forum in this course. Access to the forum is granted for students enrolled and can be found through blackboard sidebar, go to Forum -> Ed Discussion. The forum can also be accessed directly through this link: [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).
+We will use Ed as a forum in this course. Access to the forum is granted for enrolled students and can be found through the Blackboard sidebar, go to Forum -> Ed Discussion. The forum can also be accessed directly through this link: [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).
 
 ## Course Materials
 
@@ -66,7 +66,7 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 ### ChipWhisperer Lab (20 points)
 
-This assignment will contain lab work using the ChipWhisperer equipment.
+This assignment will contain side-channel attack (SCA) lab work using the ChipWhisperer equipment.
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
@@ -118,8 +118,8 @@ Guest Lectures in November:
 
 | Week | Date  | Format                                    | Responsible | Topic                             | Resources                                                                        |
 |------|-------|-------------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
-| 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               | [Slides](https://nbviewer.org/github/tjesi/TTM4205/blob/main/slides/test.pdf)    |
-| 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             | <a href="https://github.com/tjesi/TTM4205/blob/main/slides/2023/L-1.pdf">Slides</a>                                                                                  |
+| 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               | [Test](https://nbviewer.org/github/tjesi/TTM4205/blob/main/slides/test.pdf)      |
+| 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             |                                                                                  |
 | 34   | 23/8  | <font color='orange'>Lab/Ex</font>        | Caroline    | Exercises                         |                                                                                  |
 | 35   | 27/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomisation       |                                                                                  |
 | 35   | 30/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 3: Breaking ECDSA      |                                                                                  |
@@ -130,8 +130,8 @@ Guest Lectures in November:
 | 37   | 10/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      |                                                                                  |
 | 37   | 13/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   |                                                                                  |
 | 37   | 13/9  | <font color='orange'>Lab/Ex</font>        | Caroline    | Exercises                         |                                                                                  |
-| 38   | 17/9  | <font color='orange'>Lab/Ex</font>        | Caroline    | SCA Lab 1                         |                                                                                  |
-| 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks: Intro       |                                                                                  |
+| 38   | 17/9  | <font color='orange'>Lab/Ex</font>        | Caroline    | SCA Lab 1 (Setup)                 |                                                                                  |
+| 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro |                                                                                  |
 | 38   | 20/9  | <font color='orange'>Lab/Ex</font>        | Caroline    | SCA Lab 2                         |                                                                                  |
 | 39   | 24/9  | <font color='orange'>Lab/Ex</font>        | Caroline    | SCA Lab 3                         |                                                                                  |
 | 39   | 27/9  | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Symmetric Key Crypto       |                                                                                  |
