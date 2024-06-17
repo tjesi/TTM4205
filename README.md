@@ -103,11 +103,11 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 
 ## Lecture Plan
 
-We have the following sessions in lecture room [B2](https://link.mazemap.com/ib3uHkZX) this semester:
+We have the following sessions in [lecture room B2](https://link.mazemap.com/ib3uHkZX) this semester:
 
-* Tuesdays at 08:15-10:00: <font color='blue'>Lecture</font> *OR* <font color='red'>Lab</font>
-* Fridays at 10:15-12:00: <font color='red'>Lectures</font>
-* Fridays at 12:15-14:00: <font color='blue'>Lab/Exercises</font>
+* Tuesdays at 08:15-10:00: <font color='blue'>Lecture</font> *OR* <font color='orange'>Lab</font>
+* Fridays at 10:15-12:00: <font color='blue'>Lectures</font>
+* Fridays at 12:15-14:00: <font color='orange'>Lab/Exercises</font>
 
 (the schedule will be subject to small changes)
 
@@ -137,12 +137,12 @@ We have the following sessions in lecture room [B2](https://link.mazemap.com/ib3
 | 41   | 8/10  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 7                         |                                                                                  |
 | 41   | 11/10 | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 4            |                                                                                  |
 | 41   | 11/10 | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 8                         |                                                                                  |
-| 42   | 15/10 | <font color='blue'>Lecture</font>    | Tjerand     | Protocol APIs 1                   |                                                                                  |
-| 42   | 18/10 | <font color='blue'>Lecture</font>    | Tjerand     | Protocol APIs 2                   |                                                                                  |
+| 42   | 15/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 1                 |                                                                                  |
+| 42   | 18/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 2                 |                                                                                  |
 | 42   | 18/10 | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
-| 43   | 22/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 1                 |                                                                                  |
-| 43   | 25/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 2                 |                                                                                  |
-| 43   | 25/10 | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 43   | 22/10 | <font color='blue'>Lecture</font>    | Tjerand     | Protocol APIs                     |                                                                                  |
+| 43   | 25/10 | <font color='red'>No Class</font>    |             |                                   |                                                                                  |
+| 43   | 25/10 | <font color='red'>No Class</font>    |             |                                   |                                                                                  |
 | 44   | 29/10 | <font color='blue'>Lecture</font>    | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
 | 44   | 1/11  | <font color='blue'>Lecture</font>    | Tjerand     | Protocol Composition 1            |                                                                                  |
 | 44   | 1/11  | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
