@@ -103,4 +103,55 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 
 ## Lecture Plan
 
-We have the following sessions this semester: TBA.
+We have the following sessions in lecture room [B2](https://link.mazemap.com/ib3uHkZX) this semester:
+
+* Tuesdays at 08:15-10:00: <font color='blue'>Lecture</font> *OR* <font color='red'>Lab</font>
+* Fridays at 10:15-12:00: <font color='red'>Lectures</font>
+* Fridays at 12:15-14:00: <font color='blue'>Lab/Exercises</font>
+
+(the schedule will be subject to small changes)
+
+| Week | Date  | Format                               | Responsible | Topic                             | Resources                                                                        |
+|------|-------|--------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
+| 34   | 20/8  | <font color='blue'>Lecture</font>    | Tjerand     | Course Introduction               |                                                                                  |
+| 34   | 23/8  | <font color='blue'>Lecture</font>    | Tjerand     | Randomness 1                      |                                                                                  |
+| 34   | 23/8  | <font color='orange'>Lab/Ex</font>   | Caroline    | Assignments & Setup               |                                                                                  |
+| 35   | 27/8  | <font color='blue'>Lecture</font>    | Tjerand     | Randomness 2                      |                                                                                  |
+| 35   | 30/8  | <font color='blue'>Lecture</font>    | Caroline    | Randomness 3                      |                                                                                  |
+| 35   | 30/8  | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 36   | 3/9   | <font color='red'>No Class</font>    |             |                                   |                                                                                  |
+| 36   | 6/9   | <font color='red'>No Class</font>    |             |                                   |                                                                                  |
+| 36   | 6/9   | <font color='red'>No Class</font>    |             |                                   |                                                                                  |
+| 37   | 10/9  | <font color='blue'>Lecture</font>    | Tjerand     | Legacy Crypto 1                   |                                                                                  |
+| 37   | 13/9  | <font color='blue'>Lecture</font>    | Tjerand     | Legacy Crypto 2                   |                                                                                  |
+| 37   | 13/9  | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 38   | 17/9  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 1                         |                                                                                  |
+| 38   | 20/9  | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 1            |                                                                                  |
+| 38   | 20/9  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 2                         |                                                                                  |
+| 39   | 24/9  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 3                         |                                                                                  |
+| 39   | 27/9  | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 2            |                                                                                  |
+| 39   | 27/9  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 4                         |                                                                                  |
+| 40   | 1/10  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 5                         |                                                                                  |
+| 40   | 4/10  | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 3            |                                                                                  |
+| 40   | 4/10  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 6                         |                                                                                  |
+| 41   | 8/10  | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 7                         |                                                                                  |
+| 41   | 11/10 | <font color='blue'>Lecture</font>    | Tjerand     | Side-Channel Attacks 4            |                                                                                  |
+| 41   | 11/10 | <font color='orange'>Lab/Ex</font>   | Caroline    | SCA Lab 8                         |                                                                                  |
+| 42   | 15/10 | <font color='blue'>Lecture</font>    | Tjerand     | Protocol APIs 1                   |                                                                                  |
+| 42   | 18/10 | <font color='blue'>Lecture</font>    | Tjerand     | Protocol APIs 2                   |                                                                                  |
+| 42   | 18/10 | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 43   | 22/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 1                 |                                                                                  |
+| 43   | 25/10 | <font color='blue'>Lecture</font>    | Tjerand     | Padding Oracles 2                 |                                                                                  |
+| 43   | 25/10 | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 44   | 29/10 | <font color='blue'>Lecture</font>    | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
+| 44   | 1/11  | <font color='blue'>Lecture</font>    | Tjerand     | Protocol Composition 1            |                                                                                  |
+| 44   | 1/11  | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 45   | 5/11  | <font color='blue'>Lecture</font>    | Tjerand     | Protocol Composition 2            |                                                                                  |
+| 45   | 8/11  | <font color='blue'>Lecture</font>    | Tjerand     | Course Summary                    |                                                                                  |
+| 45   | 8/11  | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 46   | 12/11 | <font color='purple'>Lecture</font>  | Tjerand     | Guest Lecture                     |                                                                                  |
+| 46   | 15/11 | <font color='purple'>Lecture</font>  | Tjerand     | Guest Lecture                     |                                                                                  |
+| 46   | 15/11 | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
+| 47   | 19/11 | <font color='purple'>Projects</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
+| 47   | 22/11 | <font color='purple'>Projects</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
+| 47   | 22/11 | <font color='orange'>Lab/Ex</font>   | Caroline    | Exercises                         |                                                                                  |
