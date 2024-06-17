@@ -109,7 +109,12 @@ We have the following sessions in [lecture room B2](https://link.mazemap.com/ib3
 * Fridays at 10:15-12:00: <font color='blue'>Lecture</font>
 * Fridays at 12:15-14:00: <font color='orange'>Lab/Exercises</font>
 
-(the schedule will be subject to small changes)
+Guest Lectures in November:
+
+1. **Tuesday 12/11**: TBA
+2. **Friday 15/11**: TBA
+
+(the schedule might be subject to small changes)
 
 | Week | Date  | Format                               | Responsible | Topic                             | Resources                                                                        |
 |------|-------|--------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
