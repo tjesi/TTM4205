@@ -116,7 +116,7 @@ We have the following sessions in [lecture room B2](https://link.mazemap.com/ib3
 
 Guest Lectures in November:
 
-1. **Tuesday 12/11**: TBA
+1. **Tuesday 12/11**: Hans Heum (NTNU) on "Quantum Computers"
 2. **Friday 15/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
 
 (the schedule might be subject to small changes)
@@ -159,7 +159,7 @@ Guest Lectures in November:
 | 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
 | 45   | 8/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
 | 45   | 8/11  | <font color='orange'>Lab/Ex</font>        | Caroline    | Exercises                         |                                                                                  |
-| 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1 TBA               |                                                                                  |
+| 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1: Hans Heum        |                                                                                  |
 | 46   | 15/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Håkon Jacobsen   |                                                                                  |
 | 46   | 15/11 | <font color='orange'>Lab/Ex</font>        | Caroline    | Exercises                         |                                                                                  |
 | 47   | 19/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
