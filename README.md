@@ -55,13 +55,15 @@ Additional great resources in applied cryptography are:
 
 ## Portfolio Assignment
 
-The evaluation in this course will consist of three assignments of 100 points total.
+The evaluation in this course will consist of **three** assignments of 100 points total.  
+
+All assignments must be submittet via Ovsys2. Submission links will be published later.
 
 ### Weekly Problems (40 points)
 
 This assignment will contain the following kinds of problems:
 
-  - Pen & paper problems
+  - Mathematical problems
   - Coding problems
   - CryptoHack problems
 
@@ -80,13 +82,13 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 ### Technical Essay (40 points)
 
 This assignment is to write a technical essay about a topic not covered by the  
-lectures or to cover a topic from the lectures in more depth. It is mandatory  
-for each group to present their work, but it does not impact the final grades.
+lectures or to cover a topic from the lectures in more depth. It is mandatory for  
+each group to present their work, but it does not count towards the final grades.
 
 *Most important guidelines:*
 
-  - Groups of 1-3 members
-  - Essays of 10-20 pages
+  - Groups of 2 students
+  - Essays of roughly 8 pages
   - Essays written in LaTeX
   - Short oral presentations
 
@@ -98,7 +100,7 @@ for each group to present their work, but it does not impact the final grades.
   - Receive feedback on draft:      **December 6th**
   - Final submission: <font color='red'>December 20th at 23:59</font>.
 
-**The problem description will be announced here.**
+The project description is available: [TTM4205_Special_Topic_Project.pdf](assignments/2024/TTM4205_Special_Topic_Project.pdf) (published 17/7)
 
 ### Grading
 
@@ -155,7 +157,7 @@ Guest Lectures in November:
 | 43   | 25/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 44   | 29/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
 | 44   | 1/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 1: RSA       |                                                                                  |
-| 44   | 1/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 44   | 1/11  | <font color='orange'>Exercises</font>     | Tjerand     | Exercises                         |                                                                                  |
 | 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
 | 45   | 8/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
 | 45   | 8/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
