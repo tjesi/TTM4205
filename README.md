@@ -100,7 +100,7 @@ each group to present their work, but it does not count towards the final grades
   - Receive feedback on draft:      **December 6th**
   - Final submission: <font color='red'>December 20th at 23:59</font>.
 
-The project description is available: [TTM4205_Special_Topic_Project.pdf](assignments/2024/TTM4205_Special_Topic_Project.pdf) (published 17/7)
+The assignement is available here: [TTM4205 Technical Essay](assignments/2024/TTM4205_Technical_Essay.pdf) (published 17/7)
 
 ### Grading
 
