@@ -4,11 +4,6 @@
 This course was taught for the first time during the fall semester of 2023. [The course material and assignments from fall 2023 can be found here](https://tjerandsilde.no/TTM4205/2023). Furthermore, the grade distribution in this course can be found at [karakterer.net/course/TTM4205](https://karakterer.net/course/TTM4205), and I encourage you to check out the [student evaluations from 2023](https://github.com/tjesi/TTM4205/blob/main/evaluation/2023.pdf).
 
 <base target="_blank" >
-<style>
-link{
-    text-decoration: underline;
-}
-</style>
 
 ## Course Description
 
@@ -71,6 +66,8 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 **The problems will be announced here.**
 
+<!---The assignement is available here: [TTM4205 Weekly Problems](assignments/2024/TTM4205_Weekly_Problems.pdf) (published 12/8)-->
+
 ### ChipWhisperer Lab (20 points)
 
 This assignment will contain side-channel attack (SCA) lab work using the ChipWhisperer equipment.
@@ -78,6 +75,8 @@ This assignment will contain side-channel attack (SCA) lab work using the ChipWh
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 **The lab work will be announced here.**
+
+<!---The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/TTM4205_ChipWhisperer_Lab.pdf) (published 12/8)-->
 
 ### Technical Essay (40 points)
 
@@ -102,7 +101,7 @@ each group to present their work, but it does not count towards the final grades
 
 **The assignement will be announced here.**
 
-<!---The assignement is available here: [TTM4205 Technical Essay](assignments/2024/TTM4205_Technical_Essay.pdf) (published 17/7)-->
+<!---The assignement is available here: [TTM4205 Technical Essay](assignments/2024/TTM4205_Technical_Essay.pdf) (published 12/8)-->
 
 ### Grading
 
