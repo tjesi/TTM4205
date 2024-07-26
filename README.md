@@ -129,7 +129,7 @@ Guest Lectures in November:
 | 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               |                                                                                  |
 | 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             |                                                                                  |
 | 34   | 23/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
-| 35   | 27/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomisation       |                                                                                  |
+| 35   | 27/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomization       |                                                                                  |
 | 35   | 30/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 3: Breaking ECDSA      |                                                                                  |
 | 35   | 30/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
 | 36   | 3/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
