@@ -60,7 +60,7 @@ This assignment will contain the following kinds of problems:
 
   - Mathematical problems
   - Coding problems
-  - CryptoHack problems
+  - [CryptoHack](https://cryptohack.org) problems
 
 **The problems will be announced here.**
 
@@ -71,7 +71,7 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 ### ChipWhisperer Lab (20 points)
 
 This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky)  
-equipment, which we will provide to all students in the course.
+equipment, which we will provide to all students signed up for the course during the lecture hours.
 
 **The lab work will be announced here.**
 
