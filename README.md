@@ -62,21 +62,22 @@ This assignment will contain the following kinds of problems:
   - Coding problems
   - CryptoHack problems
 
-The submission deadline is <font color='red'>December 6th at 23:59</font>.
-
 **The problems will be announced here.**
 
 <!---The assignement is available here: [TTM4205 Weekly Problems](assignments/2024/TTM4205_Weekly_Problems.pdf) (published 12/8)-->
 
+The submission deadline is <font color='red'>December 6th at 23:59</font>.
+
 ### ChipWhisperer Lab (20 points)
 
-This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky) equipment, which we will provide to all students in the course.
-
-The submission deadline is <font color='red'>December 6th at 23:59</font>.
+This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky)  
+equipment, which we will provide to all students in the course.
 
 **The lab work will be announced here.**
 
 <!---The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/TTM4205_ChipWhisperer_Lab.pdf) (published 12/8)-->
+
+The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 ### Technical Essay (40 points)
 
