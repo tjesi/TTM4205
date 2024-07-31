@@ -32,12 +32,12 @@ Please get in touch if you want to join the reference group!
 
 ## Ed Forum
 
-We will use Ed as a forum in this course. Access to the forum is granted for enrolled students and can be found through the Blackboard sidebar, go to Forum -> Ed Discussion. The forum can also be accessed directly through this link: [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).
+We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).
 
 ## Course Materials
 
 The course materials are the lecture slides, references therein, and the assignments.  
-We do not require that you buy any books, but can recommend the following literature:
+We do not require that you buy any books, but recommend the following literature:
 
   1. *Serious Cryptography* by Jean-Philippe Aumasson at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/serious-cryptography/9781593278267)
   2. *Real-World Cryptography* by David Wong at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/real-world-cryptography/9781617296710)
@@ -70,7 +70,7 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 ### ChipWhisperer Lab (20 points)
 
-This assignment will contain side-channel attack (SCA) lab work using the ChipWhisperer equipment.
+This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky) equipment, which we will provide to all students in the course.
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
@@ -86,7 +86,7 @@ each group to present their work, but it does not count towards the final grades
 
 *Most important guidelines:*
 
-  - Groups of 2 students
+  - Groups of 2 students each
   - Essays of roughly 8 pages
   - Essays written in LaTeX
   - Short oral presentations
@@ -128,16 +128,16 @@ Guest Lectures in November:
 |------|-------|-------------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
 | 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               |                                                                                  |
 | 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             |                                                                                  |
-| 34   | 23/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 34   | 23/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 35   | 27/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomization       |                                                                                  |
 | 35   | 30/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 3: Breaking ECDSA      |                                                                                  |
-| 35   | 30/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 35   | 30/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 36   | 3/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 37   | 10/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      |                                                                                  |
 | 37   | 13/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   |                                                                                  |
-| 37   | 13/9  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 37   | 13/9  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 38   | 17/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 1 (Setup)                 |                                                                                  |
 | 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro |                                                                                  |
 | 38   | 20/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 2                         |                                                                                  |
@@ -152,19 +152,19 @@ Guest Lectures in November:
 | 41   | 11/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 8                         |                                                                                  |
 | 42   | 15/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 1: CBC and SHA    |                                                                                  |
 | 42   | 18/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 2: RSA Encryption |                                                                                  |
-| 42   | 18/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 42   | 18/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 43   | 22/10 | <font color='blue'>Lecture</font>         | Tjerand     | Crypto API Failures               |                                                                                  |
 | 43   | 25/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 43   | 25/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 44   | 29/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
 | 44   | 1/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 1: RSA       |                                                                                  |
-| 44   | 1/11  | <font color='orange'>Exercises</font>     | Tjerand     | Exercises                         |                                                                                  |
+| 44   | 1/11  | <font color='orange'>Exercises</font>     | Tjerand     | Exercise Class                    |                                                                                  |
 | 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
 | 45   | 8/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
-| 45   | 8/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 45   | 8/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1: Hans Heum        |                                                                                  |
 | 46   | 15/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Håkon Jacobsen   |                                                                                  |
-| 46   | 15/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 46   | 15/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 47   | 19/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
 | 47   | 22/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
-| 47   | 22/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercises                         |                                                                                  |
+| 47   | 22/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
