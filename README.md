@@ -106,7 +106,7 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 
 ## Lecture Plan
 
-We have the following sessions in [lecture room B2](https://link.mazemap.com/ib3uHkZX) this semester:
+We have the following sessions in [lecture hall B2](https://link.mazemap.com/ib3uHkZX) this semester:
 
 * Tuesdays at 08:15-10:00: <font color='blue'>Lecture</font> *OR* <font color='orange'>Lab</font>
 * Fridays at 10:15-12:00: <font color='blue'>Lecture</font>
