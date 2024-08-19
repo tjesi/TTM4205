@@ -62,7 +62,7 @@ This assignment will contain the following kinds of problems:
   - Coding problems
   - [CryptoHack](https://cryptohack.org) problems
 
-The assignement is available here: [TTM4205 Weekly Problems](assignments/2024/TTM4205_Weekly_Problems.pdf) (published 19/8)
+The assignement is available here: [TTM4205 Weekly Problems](assignments/2024/Weekly_Problems.pdf) (published 19/8)
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
@@ -71,11 +71,9 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky)  
 equipment, which we will provide to all students signed up for the course during the lecture hours.
 
-**The lab work will be announced here shortly.**
+**The lab work will be announced here shortly.** The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
-<!---The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/TTM4205_ChipWhisperer_Lab.pdf) (published 12/8)-->
-
-The submission deadline is <font color='red'>December 6th at 23:59</font>.
+<!---The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/ChipWhisperer_Lab.pdf) (published 12/8)-->
 
 ### Technical Essay (40 points)
 
@@ -85,12 +83,12 @@ each group to present their work, but it does not count towards the final grades
 
 *Most important guidelines:*
 
-  - Groups of 2 students each
-  - Essays of roughly 8 pages
+  - Groups of 2 or 3 students each
+  - Essays of roughly 8 to 10 pages
   - Essays written in LaTeX
   - Short oral presentations
 
-The assignement is available here: [TTM4205 Technical Essay](assignments/2024/TTM4205_Technical_Essay.pdf) (published 19/8)
+The assignement is available here: [TTM4205 Technical Essay](assignments/2024/Technical_Essay.pdf) (published 19/8)
 
 *Deadlines:*
 
