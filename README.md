@@ -28,6 +28,10 @@ Webpage:  &nbsp;                    [carosa.no](https://carosa.no)
 
 ## Reference Group
 
+The reference group consist of the following members:
+
+  - Adrian Tokle Storset (adriats) from MSTCNNS
+
 Please get in touch if you want to join the reference group!
 
 ## Ed Forum
