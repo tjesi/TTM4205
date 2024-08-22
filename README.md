@@ -127,7 +127,7 @@ Guest Lectures in November:
 | Week | Date  | Format                                    | Responsible | Topic                             | Resources                                                                        |
 |------|-------|-------------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
 | 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               | [Slides](slides/2024/L-1.pdf)                                                    |
-| 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             |                                                                                  |
+| 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             | [Slides](slides/2024/L-2.pdf)                                                    |
 | 34   | 23/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 35   | 27/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomization       |                                                                                  |
 | 35   | 30/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 3: Breaking ECDSA      |                                                                                  |
