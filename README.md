@@ -32,6 +32,7 @@ The reference group consist of the following members:
 
   - Adrian Tokle Storset (adriats), from MSTCNNS
   - Daniel Nils Braun (danienbr), exchange student
+  - Jiaqi Chen (jiaqic), from SECCLO
 
 Please get in touch if you want to join the reference group!
 
