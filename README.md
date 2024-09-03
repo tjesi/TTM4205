@@ -120,8 +120,8 @@ We have the following sessions in [lecture hall B2](https://link.mazemap.com/ib3
 
 Guest Lectures in November:
 
-1. **Tuesday 12/11**: Hans Heum (NTNU) on "Quantum Computers and Cryptography"
-2. **Friday 15/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
+1. **Tuesday 12/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
+2. **Friday 15/11**: Hans Heum (NTNU) on "Quantum Computers and Cryptography"
 
 (the schedule might be subject to small changes)
 
@@ -163,8 +163,8 @@ Guest Lectures in November:
 | 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
 | 45   | 8/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
 | 45   | 8/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1: Hans Heum        |                                                                                  |
-| 46   | 15/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Håkon Jacobsen   |                                                                                  |
+| 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1: Håkon Jacobsen   |                                                                                  |
+| 46   | 15/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Hans Heum        |                                                                                  |
 | 46   | 15/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 47   | 19/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
 | 47   | 22/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
