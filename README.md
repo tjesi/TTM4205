@@ -136,7 +136,7 @@ Guest Lectures in November:
 | 36   | 3/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
-| 37   | 10/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      |                                                                                  |
+| 37   | 10/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      | [Slides](slides/2024/L-5.pdf)                                                    |
 | 37   | 13/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   |                                                                                  |
 | 37   | 13/9  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 38   | 17/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 1 (Setup)                 |                                                                                  |
