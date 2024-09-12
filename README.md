@@ -77,7 +77,7 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 ### ChipWhisperer Lab (20 points)
 
-This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky) or [ChipWhisperer Level 1](https://rtfm.newae.com/Starter%20Kits/SCAPACK-L1) equipment, which we will provide to all students signed up for the course.
+This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky) or [ChipWhisperer Level 1](https://rtfm.newae.com/Starter%20Kits/SCAPACK-L1) equipment, which we will provide to all students who signed up for the course. You will also get access to a computer lab for the assignments.
 
 **The lab work will be announced here shortly.** The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
