@@ -35,7 +35,9 @@ The reference group consist of the following members:
   - Jiaqi Chen (jiaqic), from SECCLO
   - Emil Bragstad (emil.bragstad), from MTKOM
 
-Please get in touch if you want to join the reference group!
+Reference group meetings: 
+
+- Monday September 23rd: [minutes TBA]()
 
 ## Ed Forum
 
@@ -75,8 +77,7 @@ The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
 ### ChipWhisperer Lab (20 points)
 
-This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky)  
-equipment, which we will provide to all students signed up for the course during the lecture hours.
+This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky) or [ChipWhisperer Level 1](https://rtfm.newae.com/Starter%20Kits/SCAPACK-L1) equipment, which we will provide to all students signed up for the course.
 
 **The lab work will be announced here shortly.** The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
@@ -138,7 +139,7 @@ Guest Lectures in November:
 | 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 37   | 10/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      | [Slides](slides/2024/L-5.pdf)                                                    |
-| 37   | 13/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   |                                                                                  |
+| 37   | 13/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   | [Slides](slides/2024/L-6.pdf)                                                    |
 | 37   | 13/9  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 38   | 17/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 1 (Setup Tutorial)        |                                                                                  |
 | 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro |                                                                                  |
