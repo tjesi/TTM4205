@@ -143,8 +143,8 @@ Guest Lectures in November:
 | 37   | 10/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      | [Slides](slides/2024/L-5.pdf)                                                    |
 | 37   | 13/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   | [Slides](slides/2024/L-6.pdf)                                                    |
 | 37   | 13/9  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 38   | 17/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 1 (Setup Tutorial)        | [Slides](slides/2024/L-18.pdf), [Install](notes/cw-install.md)                                                                                 |
-| 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro |                                                                                  |
+| 38   | 17/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 1 (Setup Tutorial)        | [Slides](slides/2024/L-18.pdf), [Install](notes/cw-install.md)                   |
+| 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro | [Slides](slides/2024/L-7.pdf)                                                    |
 | 38   | 20/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 2                         |                                                                                  |
 | 39   | 24/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 3                         |                                                                                  |
 | 39   | 27/9  | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Symmetric Key Crypto       |                                                                                  |
