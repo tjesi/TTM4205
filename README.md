@@ -41,7 +41,7 @@ Reference group meetings:
 
 ## Ed Forum
 
-We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).
+We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion). Note that the first time you log in to Ed you must do so using the link on Blackboard.
 
 ## Course Materials
 
