@@ -20,7 +20,7 @@ Once the setup executable is downloaded, run it and choose install path. Remembe
 Once the above is completed, running the new `ChipWhisperer.exe` program you installed in the previous step should open a jupyter notebook in your browser. If you didn't tick the `Create a desktop shortcut` box, this should be found in `C:\Users\<username>\ChipWhisperer5_64` if you followed the setup wizard recommended install path.
 
 ## 5 Opening the premade lab notebooks
-The easiest way to open the lab notebooks is to download the zip file containing the lab notebooks [here](https://todo.com) unzip the files, and place them inside the chipwhisperer jupyter folder located in `C:\Users\<username>\ChipWhisperer5_64\cw\home\portable\chipwhisperer\jupyter`. They should then show up in your jupyter notebook in the browser. You might need to restart `ChipWhisperer.exe` before this takes effect.
+The easiest way to open the lab notebooks is to download the zip file containing the lab notebooks [here](../CW/2024/CW.zip) unzip the files, and place them inside the chipwhisperer jupyter folder located in `C:\Users\<username>\ChipWhisperer5_64\cw\home\portable\chipwhisperer\jupyter`. They should then show up in your jupyter notebook in the browser. You might need to restart `ChipWhisperer.exe` before this takes effect.
 
 ## 6 Completing the ChipWhisperer Lab
 You are now ready to take on the lab tasks.
