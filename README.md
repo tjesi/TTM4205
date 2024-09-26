@@ -147,7 +147,7 @@ Guest Lectures in November:
 | 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro | [Slides](slides/2024/L-7.pdf)                                                    |
 | 38   | 20/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 2                         |                                                                                  |
 | 39   | 24/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 3                         |                                                                                  |
-| 39   | 27/9  | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Symmetric Key Crypto       |                                                                                  |
+| 39   | 27/9  | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Symmetric Key Crypto       | [Slides](slides/2024/L-8.pdf)                                                    |
 | 39   | 27/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 4                         |                                                                                  |
 | 40   | 1/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 5                         |                                                                                  |
 | 40   | 4/10  | <font color='blue'>Lecture</font>         | Caroline    | SCA on Public Key Crypto          |                                                                                  |
