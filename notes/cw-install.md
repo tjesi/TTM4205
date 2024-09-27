@@ -1,3 +1,73 @@
+# Installing - Extra notes (for Windows, Linux and Mac)
+* Remember to update the git repository chipwhisperer to the latest version to get the correct firmware.
+* Always check that the paths to firmware are correct when running the labs. Depending on your install they might not be.
+* If you are on Windows, remember to turn off WSL.
+* If you are having trouble with the SAM4S target board switch to the STM32F4 target board (in a big plastic bag in the lab)
+* If you have any questions post on the Ed Forum.
+
+
+## Mac and Linux only
+You should be able to run a standalone version of this lab using the firmware provided [here](../CW/2024/firmware.zip) and the lab notebooks folder found [here](../CW/2024/CW.zip).
+
+## String replacements in an entire folder
+
+Replacing paths in every single file in all your notebooks can be a lot of work. Here is a shell function you can put into you .zshrc or .bashrc (or the shell config/script file you are currently using). If you don't know which shell you use, the default is in most cases bash, but you can check using the command `echo $0`.
+
+#### The function for replacing strings in all files in a folder 
+
+```
+srepl() {
+    local searchword=""
+    local replaceword=""
+    local startfolder="."
+
+    # Function to show usage
+    local usage() {
+        echo "Usage: srepl -s searchword -r replaceword [-f startfolder]"
+        echo "  -s    Search word"
+        echo "  -r    Replace word"
+        echo "  -f    Start folder (optional, default is current directory)"
+        return 1
+    }
+    # Escape special characters for sed
+    local escape_for_sed() {
+        echo "$1" | sed -e 's/[\/&]/\\&/g'
+    }
+
+    # Parse command-line options
+    while getopts "s:r:f:" opt; do
+      case $opt in
+        s) searchword=$(escape_for_sed "$OPTARG") ;;
+        r) replaceword=$(escape_for_sed "$OPTARG") ;;
+        f) startfolder=$OPTARG ;;
+        *) usage ;;
+      esac
+    done
+
+    # Check mandatory options
+    if [ -z "$searchword" ] || [ -z "$replaceword" ]; then
+        echo "Error: Search and replace words are mandatory."
+        usage
+	return 1
+    fi
+
+    # Execute the find and sed command
+    find "$startfolder" -type f -exec sed -i -e "s/$searchword/$replaceword/g" {} \;
+
+    echo "Replacement complete."
+    return 0
+}
+```
+
+#### How to use the `srepl` function:
+
+Replace string "../../../hardware/victims/firmware" with "../../../firmware/mcu":
+
+```
+srepl -s "../../../hardware/victims/firmware" -r "../../../firmware/mcu"
+```
+
+
 # Installing Chipwhisperer on Windows
 *Based on https://chipwhisperer.readthedocs.io/en/latest/windows-install.html by newae*
 
