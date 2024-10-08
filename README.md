@@ -150,11 +150,11 @@ Guest Lectures in November:
 | 39   | 27/9  | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Symmetric Key Crypto       | [Slides](slides/2024/L-8.pdf)                                                    |
 | 39   | 27/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 4                         |                                                                                  |
 | 40   | 1/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 5                         |                                                                                  |
-| 40   | 4/10  | <font color='blue'>Lecture</font>         | Caroline    | SCA on Public Key Crypto          | [Slides](slides/2024/L-9.pdf)                                                                                 |
+| 40   | 4/10  | <font color='blue'>Lecture</font>         | Caroline    | SCA on Public Key Crypto          | [Slides](slides/2024/L-9.pdf)                                                    |
 | 40   | 4/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 6                         |                                                                                  |
 | 41   | 8/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 7                         |                                                                                  |
-| 41   | 11/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Post-Quantum Crypto        |                                                                                  |
 | 41   | 11/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 8                         |                                                                                  |
+| 41   | 11/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Post-Quantum Crypto        |                                                                                  |
 | 42   | 15/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 1: CBC and SHA    |                                                                                  |
 | 42   | 18/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 2: RSA Encryption |                                                                                  |
 | 42   | 18/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
