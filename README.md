@@ -154,7 +154,7 @@ Guest Lectures in November:
 | 40   | 4/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 6                         |                                                                                  |
 | 41   | 8/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 7                         |                                                                                  |
 | 41   | 11/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 8                         |                                                                                  |
-| 41   | 11/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Post-Quantum Crypto        |                                                                                  |
+| 41   | 11/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Post-Quantum Crypto        | [Slides](slides/2024/L-10.pdf)                                                   |
 | 42   | 15/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 1: CBC and SHA    |                                                                                  |
 | 42   | 18/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 2: RSA Encryption |                                                                                  |
 | 42   | 18/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
