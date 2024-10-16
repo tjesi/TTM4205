@@ -81,7 +81,7 @@ This assignment will contain side-channel attack (SCA) lab work using the [ChipW
 or [ChipWhisperer Level 1](https://rtfm.newae.com/Starter%20Kits/SCAPACK-L1) equipment, which we will provide to all students who signed up for the  
 course. You have access to the CRYPTO-LAB in [Electro A176](https://link.mazemap.com/nYuDTF8q) to work on the assignment.
 
-The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/ChipWhisperer_Lab.pdf) (published 16/9)
+The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/ChipWhisperer_Lab.pdf) (updated 16/10)
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
 
