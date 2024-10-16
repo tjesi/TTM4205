@@ -7,7 +7,7 @@
 
 
 ## Mac and Linux only
-You should be able to run a standalone version of this lab using the firmware provided [here](../CW/2024/firmware.zip) and the lab notebooks folder found [here](../CW/2024/CW.zip).
+You should be able to run a standalone version of this lab using the firmware provided here: [tjerandsilde.no/TTM4205/CW/2024/firmware.zip](../CW/2024/firmware.zip) and the lab notebooks folder found here: [tjerandsilde.no/TTM4205/CW/2024/CW.zip](../CW/2024/CW.zip).
 
 ## String replacements in an entire folder
 
