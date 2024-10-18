@@ -43,7 +43,8 @@ Reference group meetings:
 
 ## Ed Forum
 
-We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion). Note that the first time you log in to Ed you must do so using the link on Blackboard.
+We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).  
+Note that the first time you log in to Ed you must do so using the link in the sidebar on Blackboard.
 
 ## Course Materials
 
@@ -63,7 +64,7 @@ Additional great resources in applied cryptography are:
 
 The evaluation in this course will consist of **three** assignments of 100 points total.  
 
-All assignments must be submittet via Ovsys2: [ovsys.iik.ntnu.no](https://ovsys.iik.ntnu.no).
+All assignments must be submittet via Ovsys2 at: [ovsys.iik.ntnu.no](https://ovsys.iik.ntnu.no).
 
 ### Weekly Problems (40 points)
 
