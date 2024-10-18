@@ -63,7 +63,7 @@ Additional great resources in applied cryptography are:
 
 The evaluation in this course will consist of **three** assignments of 100 points total.  
 
-All assignments must be submittet via Ovsys2. Submission links will be published later.
+All assignments must be submittet via Ovsys2: [ovsys.iik.ntnu.no](https://ovsys.iik.ntnu.no).
 
 ### Weekly Problems (40 points)
 
