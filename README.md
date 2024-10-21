@@ -107,8 +107,8 @@ The assignement is available here: [TTM4205 Technical Essay](assignments/2024/Te
 
   - Topic/scope/group approval (mandatory, email):  **November 1st**
   - Short oral presentations (mandatory):           **November 19th** or **November 22nd**
-  - Draft submission for feedback (volentary):      **November 22nd**
-  - Receive feedback on draft (volentary):          **December 6th**
+  - Draft submission for feedback (voluntary):      **November 22nd**
+  - Receive feedback on draft (voluntary):          **December 6th**
   - Final submission (mandatory): <font color='red'>December 20th at 23:59</font>.
 
 ### Grading
