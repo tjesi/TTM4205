@@ -38,7 +38,7 @@ The reference group consist of the following members:
 Reference group meetings: 
 
 - Monday September 23rd: [minutes](notes/2024/sept-23.pdf)
-- Monday October 21st: moniutes to be announced
+- Monday October 21st: [minutes](notes/2024/oct-21.pdf)
 - Date to be announced in November
 
 ## Ed Forum
