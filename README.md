@@ -164,7 +164,7 @@ Guest Lectures in November:
 | 43   | 22/10 | <font color='blue'>Lecture</font>         | Tjerand     | Crypto API Failures               | [Slides](slides/2024/L-13.pdf)                                                   |
 | 43   | 25/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 43   | 25/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
-| 44   | 29/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
+| 44   | 29/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    | [Slides](slides/2024/L-14.pdf)                                                   |
 | 44   | 1/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 1: RSA       |                                                                                  |
 | 44   | 1/11  | <font color='orange'>Exercises</font>     | Tjerand     | Exercise Class                    |                                                                                  |
 | 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
