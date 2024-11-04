@@ -167,7 +167,7 @@ Guest Lectures in November:
 | 44   | 29/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    | [Slides](slides/2024/L-14.pdf)                                                   |
 | 44   | 1/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 1: RSA       | [Slides](slides/2024/L-15.pdf)                                                   |
 | 44   | 1/11  | <font color='orange'>Exercises</font>     | Tjerand     | Exercise Class                    |                                                                                  |
-| 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
+| 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      | [Slides](slides/2024/L-16.pdf)                                                   |
 | 45   | 8/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
 | 45   | 8/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1: Håkon Jacobsen   |                                                                                  |
