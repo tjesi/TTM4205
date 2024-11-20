@@ -171,7 +171,7 @@ Guest Lectures in November:
 | 45   | 8/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    | [Slides](slides/2024/L-17.pdf)                                                   |
 | 45   | 8/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1: Håkon Jacobsen   | [Slides](slides/2024/Crypto-and-FPGAs.pdf)                                       |
-| 46   | 15/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Hans Heum        |                                                                                  |
+| 46   | 15/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Hans Heum        | [Slides](slides/2024/Crypto-and-Quantum.pdf)                                     |
 | 46   | 15/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 47   | 19/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
 | 47   | 22/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
