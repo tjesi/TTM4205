@@ -113,8 +113,6 @@ The assignement is available here: [TTM4205 Technical Essay](assignments/2024/Te
 
 ### Grading
 
-You must pass all assignments to pass the course; at least 40% on each.
-
 We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/English/Grading+scale+using+percentage+points) to assign combined grades.
 
 ## Lecture Plan
