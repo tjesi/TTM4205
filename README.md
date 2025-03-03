@@ -1,7 +1,7 @@
 
 **This will be the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2024.**
 
-This course was taught for the first time during the fall semester of 2023. [The course material and assignments from fall 2023 can be found here](https://tjerandsilde.no/TTM4205/2023). Furthermore, the grade distribution in this course can be found at [karakterer.net/course/TTM4205](https://karakterer.net/course/TTM4205), and I encourage you to check out the [student evaluations from 2023](https://github.com/tjesi/TTM4205/blob/main/evaluation/2023.pdf).
+This course was taught for the first time during the fall semester of 2023. [The course material and assignments from fall 2023 can be found here](https://tjerandsilde.no/TTM4205/2023). Furthermore, the grade distribution in this course can be found at [karakterer.net/course/TTM4205](https://karakterer.net/course/TTM4205), and I encourage you to check out the student evaluations from [2023](evaluation/2023.pdf) and [2024](evaluation/2024.pdf).
 
 <base target="_blank" >
 
