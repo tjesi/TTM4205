@@ -1,7 +1,7 @@
 
-**This will be the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2024.**
+**This is the official course website for TTM4205 Secure Cryptographic Implementations during Fall of 2025.**
 
-This course was taught for the first time during the fall semester of 2023. [The course material and assignments from fall 2023 can be found here](https://tjerandsilde.no/TTM4205/2023). Furthermore, the grade distribution in this course can be found at [karakterer.net/course/TTM4205](https://karakterer.net/course/TTM4205), and I encourage you to check out the student evaluations from [2023](evaluation/2023.pdf) and [2024](evaluation/2024.pdf).
+This course was taught for the first time during the fall semester of 2023. The course material and assignments from earlier semesters can be found here: [2023](https://tjerandsilde.no/TTM4205/2023) and [2024](https://tjerandsilde.no/TTM4205/2024). Furthermore, the grade distribution in this course can be found at [karakterer.net/course/TTM4205](https://karakterer.net/course/TTM4205), and I encourage you to check out the student evaluations from [2023](evaluation/2023.pdf) and [2024](evaluation/2024.pdf).
 
 <base target="_blank" >
 
@@ -28,6 +28,10 @@ Webpage:  &nbsp;                    [carosa.no](https://carosa.no)
 
 ## Reference Group
 
+Please reach out to be involved in the reference group.
+
+<!--
+
 The reference group consist of the following members:
 
   - Adrian Tokle Storset (adriats), from MSTCNNS
@@ -41,10 +45,18 @@ Reference group meetings:
 - Monday October 21st: [minutes](minutes/2024/oct-21.pdf)
 - Monday December 9th: [minutes](minutes/2024/dec-09.pdf)
 
+-->
+
 ## Ed Forum
+
+We use Ed as a forum in this course. More details will be available later.
+
+<!--
 
 We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).  
 Note that the first time you log in to Ed you must do so using the link in the sidebar on Blackboard.
+
+-->
 
 ## Course Materials
 
@@ -64,7 +76,11 @@ Additional great resources in applied cryptography are:
 
 The evaluation in this course will consist of **three** assignments of 100 points total.  
 
+<!--
+
 All assignments must be submittet via Ovsys2 at: [ovsys.iik.ntnu.no](https://ovsys.iik.ntnu.no).
+
+-->
 
 ### Weekly Problems (40 points)
 
@@ -74,9 +90,15 @@ This assignment will contain the following kinds of problems:
   - Coding problems
   - [CryptoHack](https://cryptohack.org) problems
 
+The problem set will be available in August.
+
+<!--
+
 The assignement is available here: [TTM4205 Weekly Problems](assignments/2024/Weekly_Problems.pdf) (published 19/8)
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
+
+-->
 
 ### ChipWhisperer Lab (20 points)
 
@@ -84,9 +106,15 @@ This assignment will contain side-channel attack (SCA) lab work using the [ChipW
 or [ChipWhisperer Level 1](https://rtfm.newae.com/Starter%20Kits/SCAPACK-L1) equipment, which we will provide to all students who signed up for the  
 course. You have access to the CRYPTO-LAB in [Electro A176](https://link.mazemap.com/nYuDTF8q) to work on the assignment.
 
+The problem set will be available in August.
+
+<!--
+
 The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/ChipWhisperer_Lab.pdf) (updated 16/10)
 
 The submission deadline is <font color='red'>December 6th at 23:59</font>.
+
+-->
 
 ### Technical Essay (40 points)
 
@@ -101,7 +129,13 @@ each group to present their work, but it does not count towards the final grades
   - Essays written in LaTeX
   - Short oral presentations
 
+The problem set will be available in August.
+
+<!--
+
 The assignement is available here: [TTM4205 Technical Essay](assignments/2024/Technical_Essay.pdf) (published 19/8)
+
+-->
 
 *Deadlines:*
 
@@ -117,60 +151,64 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 
 ## Lecture Plan
 
-We have the following sessions in [lecture hall B2](https://link.mazemap.com/ib3uHkZX) this semester:
+We have the following sessions in [lecture hall R73](https://link.mazemap.com/lbXvvRov) this semester:
 
-* Tuesdays at 08:15-10:00: <font color='blue'>Lecture</font> *OR* <font color='orange'>Lab</font>
-* Fridays at 10:15-12:00: <font color='blue'>Lecture</font>
-* Fridays at 12:15-14:00: <font color='orange'>Lab</font> *OR* <font color='orange'>Exercises</font>
+* Mondays at 15:15-17:00: <font color='blue'>Lecture</font>
+* Fridays at 12:15-14:00: <font color='blue'>Lecture</font> *OR* <font color='orange'>Lab</font>
+* Fridays at 14:15-16:00: <font color='orange'>Lab</font> *OR* <font color='orange'>Exercises</font>
+
+<!--
 
 Guest Lectures in November:
 
 1. **Tuesday 12/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
 2. **Friday 15/11**: Hans Heum (NTNU) on "Quantum Computers and Cryptography"
 
+-->
+
 (the schedule might be subject to small changes)
 
 | Week | Date  | Format                                    | Responsible | Topic                             | Resources                                                                        |
 |------|-------|-------------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
-| 34   | 20/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               | [Slides](slides/2024/L-1.pdf)                                                    |
-| 34   | 23/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             | [Slides](slides/2024/L-2.pdf)                                                    |
-| 34   | 23/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 35   | 27/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomization       | [Slides](slides/2024/L-3.pdf)                                                    |
-| 35   | 30/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 3: Breaking ECDSA      | [Slides](slides/2024/L-4.pdf)                                                    |
-| 35   | 30/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 36   | 3/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
-| 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
-| 36   | 6/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
-| 37   | 10/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      | [Slides](slides/2024/L-5.pdf)                                                    |
-| 37   | 13/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   | [Slides](slides/2024/L-6.pdf)                                                    |
-| 37   | 13/9  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 38   | 17/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 1 (Setup Tutorial)        | [Slides](slides/2024/L-18.pdf), [Install](notes/cw-install.md)                   |
-| 38   | 20/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro | [Slides](slides/2024/L-7.pdf)                                                    |
-| 38   | 20/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 2                         |                                                                                  |
-| 39   | 24/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 3                         |                                                                                  |
-| 39   | 27/9  | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Symmetric Key Crypto       | [Slides](slides/2024/L-8.pdf)                                                    |
-| 39   | 27/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 4                         |                                                                                  |
-| 40   | 1/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 5                         |                                                                                  |
-| 40   | 4/10  | <font color='blue'>Lecture</font>         | Caroline    | SCA on Public Key Crypto          | [Slides](slides/2024/L-9.pdf)                                                    |
-| 40   | 4/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 6                         |                                                                                  |
-| 41   | 8/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 7                         |                                                                                  |
-| 41   | 11/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 8                         |                                                                                  |
-| 41   | 11/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Post-Quantum Crypto        | [Slides](slides/2024/L-10.pdf)                                                   |
-| 42   | 15/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 1: CBC and SHA    | [Slides](slides/2024/L-11.pdf)                                                   |
-| 42   | 18/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 2: RSA Encryption | [Slides](slides/2024/L-12.pdf)                                                   |
-| 42   | 18/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 43   | 22/10 | <font color='blue'>Lecture</font>         | Tjerand     | Crypto API Failures               | [Slides](slides/2024/L-13.pdf)                                                   |
-| 43   | 25/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
-| 43   | 25/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
-| 44   | 29/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    | [Slides](slides/2024/L-14.pdf)                                                   |
-| 44   | 1/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 1: RSA       | [Slides](slides/2024/L-15.pdf)                                                   |
-| 44   | 1/11  | <font color='orange'>Exercises</font>     | Tjerand     | Exercise Class                    |                                                                                  |
-| 45   | 5/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      | [Slides](slides/2024/L-16.pdf)                                                   |
-| 45   | 8/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    | [Slides](slides/2024/L-17.pdf)                                                   |
-| 45   | 8/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 46   | 12/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1: Håkon Jacobsen   | [Slides](slides/2024/Crypto-and-FPGAs.pdf)                                       |
-| 46   | 15/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Hans Heum        | [Slides](slides/2024/Crypto-and-Quantum.pdf)                                     |
-| 46   | 15/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 47   | 19/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
-| 47   | 22/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
-| 47   | 22/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 34   | 18/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               |                                                                                  |
+| 34   | 22/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             |                                                                                  |
+| 34   | 22/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 35   | 25/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Randomization       |                                                                                  |
+| 35   | 29/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 3: Breaking ECDSA      |                                                                                  |
+| 35   | 29/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 36   | 1/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
+| 36   | 5/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
+| 36   | 5/9   | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
+| 37   | 8/9  | <font color='blue'>Lecture</font>          | Tjerand     | Legacy Crypto 1: Crypto Wars      |                                                                                  |
+| 37   | 12/9  | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   |                                                                                  |
+| 37   | 12/9  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 38   | 15/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 1 (Setup Tutorial)        |                                                                                  |
+| 38   | 19/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attacks (SCA): Intro |                                                                                  |
+| 38   | 19/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 2                         |                                                                                  |
+| 39   | 22/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 3                         |                                                                                  |
+| 39   | 26/9  | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Symmetric Key Crypto       |                                                                                  |
+| 39   | 26/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 4                         |                                                                                  |
+| 40   | 29/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 5                         |                                                                                  |
+| 40   | 3/10  | <font color='blue'>Lecture</font>         | Caroline    | SCA on Public Key Crypto          |                                                                                  |
+| 40   | 3/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 6                         |                                                                                  |
+| 41   | 6/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 7                         |                                                                                  |
+| 41   | 10/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 8                         |                                                                                  |
+| 41   | 10/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Post-Quantum Crypto        |                                                                                  |
+| 42   | 13/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 1: CBC and SHA    |                                                                                  |
+| 42   | 17/10 | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 2: RSA Encryption |                                                                                  |
+| 42   | 17/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 43   | 20/10 | <font color='blue'>Lecture</font>         | Tjerand     | Crypto API Failures               |                                                                                  |
+| 43   | 24/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
+| 43   | 24/10 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
+| 44   | 27/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
+| 44   | 31/10  | <font color='blue'>Lecture</font>        | Tjerand     | Protocol Composition 1: RSA       |                                                                                  |
+| 44   | 31/10  | <font color='orange'>Exercises</font>    | Tjerand     | Exercise Class                    |                                                                                  |
+| 45   | 3/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
+| 45   | 7/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
+| 45   | 7/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 46   | 10/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture                     |                                                                                  |
+| 46   | 14/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2                   |                                                                                  |
+| 46   | 14/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 47   | 17/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
+| 47   | 21/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
+| 47   | 21/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
