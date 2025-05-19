@@ -139,11 +139,11 @@ The assignement is available here: [TTM4205 Technical Essay](assignments/2024/Te
 
 *Deadlines:*
 
-  - Topic/scope/group approval (mandatory, email):  **November 1st**
-  - Short oral presentations (mandatory):           **November 19th** or **November 22nd**
-  - Draft submission for feedback (voluntary):      **November 22nd**
-  - Receive feedback on draft (voluntary):          **December 6th**
-  - Final submission (mandatory): <font color='red'>December 20th at 23:59</font>.
+  - Topic/scope/group approval (mandatory, email):  **October 31st**
+  - Short oral presentations (mandatory):           **November 17th** or **November 21nd**
+  - Draft submission for feedback (voluntary):      **November 21nd**
+  - Receive feedback on draft (voluntary):          **December 5th**
+  - Final submission (mandatory): <font color='red'>December 19th at 23:59</font>.
 
 ### Grading
 
@@ -151,11 +151,11 @@ We will use the [official NTNU grading scale](https://i.ntnu.no/wiki/-/wiki/Engl
 
 ## Lecture Plan
 
-We have the following sessions in [lecture hall R73](https://link.mazemap.com/lbXvvRov) this semester:
+We have the following sessions in [lecture room R73](https://link.mazemap.com/lbXvvRov) this semester:
 
 * Mondays at 15:15-17:00: <font color='blue'>Lecture</font>
 * Fridays at 12:15-14:00: <font color='blue'>Lecture</font> *OR* <font color='orange'>Lab</font>
-* Fridays at 14:15-16:00: <font color='orange'>Lab</font> *OR* <font color='orange'>Exercises</font>
+* Fridays at 14:15-16:00: <font color='orange'>Exercises</font> *OR*  <font color='orange'>Lab</font> 
 
 <!--
 
@@ -166,15 +166,15 @@ Guest Lectures in November:
 
 -->
 
-(the schedule might be subject to small changes) <font color='red'>No Class</font>
+(the schedule might be subject to small changes)
 
 | Week | Date  | Format                                    | Responsible | Topic                             | Resources                                                                        |
 |------|-------|-------------------------------------------|-------------|-----------------------------------|----------------------------------------------------------------------------------|
 | 34   | 18/8  | <font color='blue'>Lecture</font>         | Tjerand     | Course Introduction               |                                                                                  |
 | 34   | 22/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 1: Entropy             |                                                                                  |
 | 34   | 22/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 35   | 25/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 2: Breaking ECDSA      |                                                                                  |
-| 35   | 29/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 3: Randomization       |                                                                                  |
+| 35   | 25/8  | <font color='blue'>Lecture</font>         | Caroline    | Randomness 2: Breaking ECDSA      |                                                                                  |
+| 35   | 29/8  | <font color='blue'>Lecture</font>         | Tjerand     | Randomness 3: Randomization       |                                                                                  |
 | 35   | 29/8  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 36   | 1/9   | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      |                                                                                  |
 | 36   | 5/9   | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   |                                                                                  |
@@ -201,7 +201,6 @@ Guest Lectures in November:
 | 44   | 31/10 | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
 | 44   | 31/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 45   | 3/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
-| 45   | 7/11  | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 45   | 7/11  | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
 | 46   | 10/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1                   |                                                                                  |
 | 46   | 14/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2                   |                                                                                  |
