@@ -196,12 +196,12 @@ Guest Lectures in November:
 | 42   | 17/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 4 (4h)                    |                                                                                  |
 | 43   | 20/10 | <font color='blue'>Lecture</font>         | Tjerand     | Crypto API Failures               |                                                                                  |
 | 43   | 24/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
-| 43   | 24/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                 |
+| 43   | 24/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 44   | 27/10 | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 1: RSA       |                                                                                  |
-| 44   | 31/10 | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
-| 44   | 31/10 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 45   | 3/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
-| 45   | 7/11  | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
+| 44   | 31/11 | <font color='red'>No Class</font>         |             |                                   |                                                                                  |
+| 45   | 3/11  | <font color='blue'>Lecture</font>         | Tjerand     | Protocol Composition 2: DLOG      |                                                                                  |
+| 45   | 7/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
+| 45   | 7/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 46   | 10/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1                   |                                                                                  |
 | 46   | 14/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2                   |                                                                                  |
 | 46   | 14/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
