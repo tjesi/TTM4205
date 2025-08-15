@@ -49,14 +49,8 @@ Reference group meetings:
 
 ## Ed Forum
 
-We use Ed as a forum in this course. More details will be available later.
-
-<!--
-
-We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/1290](https://edstem.org/eu/courses/1290/discussion).  
+We use Ed as a forum in this course, and enrolled students can access the forum at [edstem.org/eu/courses/2376](https://edstem.org/eu/courses/2376).  
 Note that the first time you log in to Ed you must do so using the link in the sidebar on Blackboard.
-
--->
 
 ## Course Materials
 
@@ -65,22 +59,18 @@ We do not require that you buy any books, but recommend the following literature
 
   1. *Serious Cryptography* by Jean-Philippe Aumasson at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/serious-cryptography-2nd-edition/9781718503847)
   2. *Real-World Cryptography* by David Wong at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/real-world-cryptography/9781617296710)
-  3. *The Hardware Hacking Handbook* by Jasper van Woudenberg and Colin O'Flynn at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/hardware-hacking-handbook/9781593278748)
 
 Additional great resources in applied cryptography are:
 
   - *A Graduate Course in Applied Cryptography* by Dan Boneh and Victor Shoup at [toc.cryptobook.us](https://toc.cryptobook.us) (freely available)
-  - *Introduction to Modern Cryptography* by Jonathan Katz and Yehuda Lindell at [akademika.no](https://www.akademika.no/realfag/matematikk/introduction-modern-cryptography/9780815354369) or [NTNU University Library](https://bibsys-almaprimo.hosted.exlibrisgroup.com/permalink/f/11qff65/BIBSYS_ILS71538829360002201)
+  - *Introduction to Modern Cryptography* by Jonathan Katz and Yehuda Lindell at [akademika.no](https://www.akademika.no/realfag/matematikk/introduction-modern-cryptography/9780815354369) or [NTNU University Library](https://bibsys-almaprimo.hosted.exlibrisgroup.com/permalink/f/11qff65/BIBSYS_ILS71538829360002201)  
+  - *The Hardware Hacking Handbook* by Jasper van Woudenberg and Colin O'Flynn at [akademika.no](https://www.akademika.no/teknologi/data-og-informasjonsteknologi/hardware-hacking-handbook/9781593278748)
 
 ## Portfolio Assignment
 
 The evaluation in this course will consist of **three** assignments of 100 points total.  
 
-<!--
-
 All assignments must be submittet via Ovsys2 at: [ovsys.iik.ntnu.no](https://ovsys.iik.ntnu.no).
-
--->
 
 ### Weekly Problems (40 points)
 
@@ -123,13 +113,7 @@ each group to present their work, but it does not count towards the final grades
   - Essays written in LaTeX
   - Short oral presentations
 
-The problem set will be available in August.
-
-<!--
-
-The assignement is available here: [TTM4205 Technical Essay](assignments/2024/Technical_Essay.pdf) (published 19/8)
-
--->
+The assignement is available here: [TTM4205 Technical Essay](assignments/2025/Technical_Essay.pdf) (published 15/8)
 
 *Deadlines:*
 
