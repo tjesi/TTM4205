@@ -96,9 +96,9 @@ The problem set will be available in August.
 
 The assignement is available here: [TTM4205 Weekly Problems](assignments/2024/Weekly_Problems.pdf) (published 19/8)
 
-The submission deadline is <font color='red'>December 6th at 23:59</font>.
-
 -->
+
+The submission deadline is <font color='red'>December 7th at 23:59</font>.
 
 ### ChipWhisperer Lab (20 points)
 
@@ -106,15 +106,15 @@ This assignment will contain side-channel attack (SCA) lab work using the [ChipW
 or [ChipWhisperer Level 1](https://rtfm.newae.com/Starter%20Kits/SCAPACK-L1) equipment, which we will provide to all students who signed up for the  
 course. You have access to the CRYPTO-LAB in [Electro A176](https://link.mazemap.com/nYuDTF8q) to work on the assignment.
 
-The problem set will be available in August.
+The problem set will be available in September.
 
 <!--
 
 The assignement is available here: [TTM4205 ChipWhisperer Lab](assignments/2024/ChipWhisperer_Lab.pdf) (updated 16/10)
 
-The submission deadline is <font color='red'>December 6th at 23:59</font>.
-
 -->
+
+The submission deadline is <font color='red'>December 7th at 23:59</font>.
 
 ### Technical Essay (40 points)
 
@@ -179,11 +179,11 @@ Guest Lectures in November:
 | 36   | 1/9   | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 1: Crypto Wars      |                                                                                  |
 | 36   | 5/9   | <font color='blue'>Lecture</font>         | Tjerand     | Legacy Crypto 2: Attacks on TLS   |                                                                                  |
 | 36   | 5/9   | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
-| 37   | 8/9   | <font color='blue'>Lecture</font>         | Tjerand     | Post-Quantum Encryption           |                                                                                  |
-| 37   | 12/9  | <font color='blue'>Lecture</font>         | Tjerand     | Post-Quantum Signatures           |                                                                                  |
+| 37   | 8/9   | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 1: CBC and SHA    |                                                                                  |
+| 37   | 12/9  | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 2: RSA Encryption |                                                                                  |
 | 37   | 12/9  | <font color='orange'>Exercises</font>     | Caroline    | Excercise Class                   |                                                                                  |
-| 38   | 15/9  | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 1: CBC and SHA    |                                                                                  |
-| 38   | 19/9  | <font color='blue'>Lecture</font>         | Tjerand     | Padding Oracles 2: RSA Encryption |                                                                                  |
+| 38   | 15/9  | <font color='blue'>Lecture</font>         | Tjerand     | Quantum-Safe Encryption           |                                                                                  |
+| 38   | 19/9  | <font color='blue'>Lecture</font>         | Tjerand     | Quantum-Safe Signatures           |                                                                                  |
 | 38   | 19/9  | <font color='orange'>Lab</font>           | Caroline    | Exercise Class                    |                                                                                  |
 | 39   | 22/9  | <font color='blue'>Lecture</font>         | Tjerand     | Side-Channel Attack (SCA): Intro  |                                                                                  |
 | 39   | 26/9  | <font color='orange'>Lab</font>           | Caroline    | SCA Setup Tutorial                |                                                                                  |
@@ -192,7 +192,7 @@ Guest Lectures in November:
 | 40   | 3/10  | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 2 (4h)                    |                                                                                  |
 | 41   | 6/10  | <font color='blue'>Lecture</font>         | Caroline    | SCA on Public Key Crypto          |                                                                                  |
 | 41   | 10/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 3 (4h)                    |                                                                                  |
-| 41   | 13/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Post-Quantum Crypto        |                                                                                  |
+| 41   | 13/10 | <font color='blue'>Lecture</font>         | Tjerand     | SCA on Quantum-Safe Crypto        |                                                                                  |
 | 42   | 17/10 | <font color='orange'>Lab</font>           | Caroline    | SCA Lab 4 (4h)                    |                                                                                  |
 | 43   | 20/10 | <font color='blue'>Lecture</font>         | Tjerand     | Crypto API Failures               |                                                                                  |
 | 43   | 24/10 | <font color='blue'>Lecture</font>         | Tjerand     | Commitments and Zero-Knowledge    |                                                                                  |
