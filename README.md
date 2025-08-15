@@ -90,13 +90,7 @@ This assignment will contain the following kinds of problems:
   - Coding problems
   - [CryptoHack](https://cryptohack.org) problems
 
-The problem set will be available in August.
-
-<!--
-
-The assignement is available here: [TTM4205 Weekly Problems](assignments/2024/Weekly_Problems.pdf) (published 19/8)
-
--->
+The assignement is available here: [TTM4205 Weekly Problems](assignments/2025/Weekly_Problems.pdf) (published 15/8)
 
 The submission deadline is <font color='red'>December 7th at 23:59</font>.
 
