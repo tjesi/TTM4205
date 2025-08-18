@@ -118,7 +118,7 @@ The assignement is available here: [TTM4205 Technical Essay](assignments/2025/Te
 *Deadlines:*
 
   - Topic/scope/group approval (mandatory, email):  **October 31st**
-  - Short oral presentations (mandatory):           **November 17th** or **November 21nd**
+  - Short oral presentations (mandatory):           **November 14th** or **November 17nd**
   - Draft submission for feedback (voluntary):      **November 21nd**
   - Receive feedback on draft (voluntary):          **December 5th**
   - Final submission (mandatory): <font color='red'>December 19th at 23:59</font>.
@@ -135,14 +135,10 @@ We have the following sessions in [lecture room R73](https://link.mazemap.com/lb
 * Fridays at 12:15-14:00: <font color='blue'>Lecture</font> *OR* <font color='orange'>Lab</font>
 * Fridays at 14:15-16:00: <font color='orange'>Exercises</font> *OR*  <font color='orange'>Lab</font> 
 
-<!--
-
 Guest Lectures in November:
 
-1. **Tuesday 12/11**: Håkon Jacobsen (Thales Norway) on "FPGAs and Cryptography"
-2. **Friday 15/11**: Hans Heum (NTNU) on "Quantum Computers and Cryptography"
-
--->
+1. **Tuesday 12/11**: TBA
+2. **Friday 15/11**: Markku-Juhani O. Saarinen (Tampere) on "PQCP Support for RISC-V Vector, future Keccak Extensions"
 
 (the schedule might be subject to small changes)
 
@@ -181,8 +177,7 @@ Guest Lectures in November:
 | 45   | 7/11  | <font color='blue'>Lecture</font>         | Tjerand     | Course Summary                    |                                                                                  |
 | 45   | 7/11  | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
 | 46   | 10/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 1                   |                                                                                  |
-| 46   | 14/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2                   |                                                                                  |
-| 46   | 14/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
+| 46   | 14/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
 | 47   | 17/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
-| 47   | 21/11 | <font color='purple'>Presentations</font> | Tjerand     | ***Project Presentations***       |                                                                                  |
+| 47   | 21/11 | <font color='purple'>Guest Lecture</font> | Tjerand     | Guest Lecture 2: Markku           |                                                                                  |
 | 47   | 21/11 | <font color='orange'>Exercises</font>     | Caroline    | Exercise Class                    |                                                                                  |
