@@ -70,7 +70,7 @@ Additional great resources in applied cryptography are:
 
 The evaluation in this course will consist of **three** assignments of 100 points total.  
 
-All assignments must be submittet via Ovsys2 at: [ovsys.iik.ntnu.no](https://ovsys.iik.ntnu.no).
+All assignments must be submitted via Ovsys2 at: [ovsys.iik.ntnu.no](https://ovsys.iik.ntnu.no).
 
 ### Weekly Problems (40 points)
 
@@ -87,8 +87,8 @@ The submission deadline is <font color='red'>December 7th at 23:59</font>.
 ### ChipWhisperer Lab (20 points)
 
 This assignment will contain side-channel attack (SCA) lab work using the [ChipWhisperer Husky](https://rtfm.newae.com/Capture/ChipWhisperer-Husky)  
-or [ChipWhisperer Level 1](https://rtfm.newae.com/Starter%20Kits/SCAPACK-L1) equipment, which we will provide to all students who signed up for the  
-course. You have access to the CRYPTO-LAB in [Electro A176](https://link.mazemap.com/nYuDTF8q) to work on the assignment.
+equipment, which we will provide to all students who signed up for the course. You will get  
+access to the CRYPTO-LAB in [Electro A176](https://link.mazemap.com/nYuDTF8q) to work on the assignment.
 
 The problem set will be available in September.
 
